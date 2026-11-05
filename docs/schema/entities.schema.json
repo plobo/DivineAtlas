@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "entities.schema.json",
+  "title": "Divine Atlas entities.json",
+  "type": "object",
+  "required": ["schemaVersion", "records"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "records": { "type": "array", "items": { "$ref": "#/$defs/entity" } }
+  },
+  "$defs": {
+    "entity": {
+      "type": "object",
+      "required": ["id", "name", "summary", "classifications"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "common.schema.json#/$defs/id" },
+        "name": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "alternativeNames": { "type": "array", "items": { "$ref": "common.schema.json#/$defs/nonEmpty" } },
+        "summary": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "isFeatured": { "type": "boolean" },
+        "reviewStatus": { "enum": ["draft", "reviewed"] },
+        "lastReviewedAt": { "$ref": "common.schema.json#/$defs/date" },
+        "addedAt": { "$ref": "common.schema.json#/$defs/date" },
+        "classifications": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/classification" } },
+        "sections": { "type": "array", "items": { "$ref": "#/$defs/section" } },
+        "relationships": { "type": "array", "items": { "$ref": "#/$defs/relationship" } },
+        "imageAssets": { "type": "array", "items": { "$ref": "#/$defs/mediaAsset" } },
+        "videoLinks": { "type": "array", "items": { "$ref": "#/$defs/videoLink" } }
+      }
+    },
+    "classification": {
+      "type": "object",
+      "required": ["traditionID", "category", "group", "label"],
+      "additionalProperties": false,
+      "properties": {
+        "traditionID": { "$ref": "common.schema.json#/$defs/traditionID" },
+        "category": {
+          "enum": ["god", "goddess", "angel", "archangel", "prophet", "spirit", "jinn", "demon",
+                   "fallenAngel", "asura", "rakshasa", "other"]
+        },
+        "group": { "enum": ["divineAndCelestial", "adversarial", "other"] },
+        "label": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "explanation": { "type": "string" },
+        "citations": { "$ref": "common.schema.json#/$defs/citations" }
+      },
+      "if": { "required": ["explanation"] },
+      "then": { "required": ["citations"], "properties": { "citations": { "minItems": 1 } } }
+    },
+    "section": {
+      "type": "object",
+      "required": ["id", "title", "body", "kind"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "common.schema.json#/$defs/id" },
+        "title": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "body": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "kind": { "enum": ["overview", "history", "roles", "symbols", "texts", "interpretations", "other"] },
+        "citations": { "$ref": "common.schema.json#/$defs/citations" }
+      }
+    },
+    "relationship": {
+      "type": "object",
+      "required": ["id", "relatedEntityID", "relationshipType", "explanation"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "common.schema.json#/$defs/id" },
+        "relatedEntityID": { "$ref": "common.schema.json#/$defs/id" },
+        "relationshipType": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "explanation": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "citations": { "$ref": "common.schema.json#/$defs/citations" }
+      }
+    },
+    "mediaAsset": {
+      "type": "object",
+      "required": ["id", "url", "altText", "license", "sourceURL", "isArtisticReconstruction", "reviewedAt"],
+      "anyOf": [{ "required": ["creator"] }, { "required": ["attributionText"] }],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "common.schema.json#/$defs/id" },
+        "url": { "$ref": "common.schema.json#/$defs/httpsURL" },
+        "altText": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "creator": { "type": "string" },
+        "license": {
+          "type": "string",
+          "pattern": "^(Public domain|PD-.+|CC0.*|CC BY(-SA)? [234]\\.[05]( [a-z]+)?)$"
+        },
+        "licenseURL": { "$ref": "common.schema.json#/$defs/httpsURL" },
+        "sourceURL": { "$ref": "common.schema.json#/$defs/httpsURL" },
+        "attributionText": { "type": "string" },
+        "dateText": { "type": "string" },
+        "isArtisticReconstruction": { "type": "boolean" },
+        "reviewedAt": { "$ref": "common.schema.json#/$defs/date" }
+      }
+    },
+    "videoLink": {
+      "type": "object",
+      "required": ["id", "title", "url", "provider"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "common.schema.json#/$defs/id" },
+        "title": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "url": { "$ref": "common.schema.json#/$defs/httpsURL" },
+        "provider": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+        "channelName": { "type": "string" },
+        "thumbnailURL": { "$ref": "common.schema.json#/$defs/httpsURL" },
+        "reviewedAt": { "$ref": "common.schema.json#/$defs/date" }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "christianity",
+      "name": "Christianity",
+      "summary": "A monotheistic tradition centred on the life and teachings of Jesus of Nazareth, whom Christians regard as the Christ.",
+      "introduction": "Christianity emerged in the first century CE among followers of Jesus and spread across the Mediterranean world and beyond. Most Christian traditions understand the one God as a Trinity of Father, Son, and Holy Spirit. Christian scripture comprises the Old Testament and the New Testament, although the books included in the Old Testament differ between traditions.",
+      "interpretiveNote": "Catholic, Orthodox, Protestant, and other Christian communities differ in their teachings about angels, the devil, and the interpretation of scripture. Each entry identifies the source of its claims.",
+      "sourceIDs": [
+        "src-new-testament",
+        "src-old-testament",
+        "src-tobit",
+        "src-nicene-creed",
+        "src-celestial-hierarchy",
+        "src-vulgate"
+      ]
+    },
+    {
+      "id": "judaism",
+      "name": "Judaism",
+      "summary": "The monotheistic tradition of the Jewish people, grounded in the Torah and the wider Hebrew Bible.",
+      "introduction": "Judaism affirms one God in a covenantal relationship with the people of Israel. Its scripture is the Tanakh, comprising the Torah, the Prophets (Nevi'im), and the Writings (Ketuvim). Rabbinic literature, including the Mishnah and Talmud, has shaped Jewish practice and interpretation since late antiquity.",
+      "interpretiveNote": "Views on angels and other spiritual beings vary widely across biblical, rabbinic, philosophical, mystical, and folk sources. Material from later folklore is labelled as such.",
+      "sourceIDs": [
+        "src-tanakh",
+        "src-babylonian-talmud",
+        "src-1-enoch",
+        "src-war-scroll",
+        "src-alphabet-ben-sira"
+      ]
+    },
+    {
+      "id": "islam",
+      "name": "Islam",
+      "summary": "A monotheistic tradition centred on belief in one God (Allah) and the revelation of the Qur'an to the Prophet Muhammad.",
+      "introduction": "Islam emerged in seventh-century Arabia. Muslims believe the Qur'an was revealed to the Prophet Muhammad through the angel Jibril. Belief in angels is one of the articles of faith in Islam. The Qur'an also describes the jinn, beings created from smokeless fire who, like humans, may choose belief or disbelief.",
+      "interpretiveNote": "Sunni, Shia, and other Muslim communities, and different scholarly schools, differ on points of interpretation. The jinn are not equivalent to demons: the Qur'an describes both believing and disbelieving jinn.",
+      "sourceIDs": [
+        "src-quran",
+        "src-jami-tirmidhi"
+      ]
+    },
+    {
+      "id": "hinduism",
+      "name": "Hinduism",
+      "summary": "A diverse family of traditions originating in South Asia, with a wide range of understandings of the divine.",
+      "introduction": "Hindu traditions draw on a large body of texts, including the Vedas, the Upanishads, the epics Ramayana and Mahabharata, and the Puranas. Major devotional traditions include Vaishnavism, Shaivism, and Shaktism, centred respectively on Vishnu, Shiva, and the Goddess (Devi). Philosophical schools understand the relationship between the divine and the world in different ways.",
+      "interpretiveNote": "Terms such as deva, asura, and rakshasa have meanings that vary between texts and periods. They are not equivalent to the angels or demons of the Abrahamic traditions.",
+      "sourceIDs": [
+        "src-rigveda",
+        "src-shvetashvatara-upanishad",
+        "src-katha-upanishad",
+        "src-bhagavad-gita",
+        "src-mahabharata",
+        "src-valmiki-ramayana",
+        "src-vishnu-purana",
+        "src-bhagavata-purana",
+        "src-shiva-purana",
+        "src-devi-mahatmya"
+      ]
+    }
+  ]
+}

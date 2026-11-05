@@ -1,0 +1,606 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "entityID": "michael",
+      "commonsFile": "File:GuidoReni MichaelDefeatsSatan.jpg",
+      "altText": "Painting by Guido Reni of the Archangel Michael defeating Satan.",
+      "isArtisticReconstruction": false,
+      "note": "Christian (Catholic) Baroque altarpiece, c. 1630s.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "gabriel",
+      "commonsFile": "File:Fra Angelico - The Annunciation - WGA0455.jpg",
+      "altText": "Fra Angelico's Annunciation, showing the angel Gabriel and Mary.",
+      "isArtisticReconstruction": false,
+      "note": "Christian (Italian Renaissance), 1430s. Shows Mary as well as Gabriel.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "raphael",
+      "commonsFile": "File:Tobias and the Angel - Filippino Lippi.jpg",
+      "altText": "Filippino Lippi's painting of Tobias walking with the angel Raphael.",
+      "isArtisticReconstruction": false,
+      "note": "Christian (Italian Renaissance), c. 1470s; illustrates the Book of Tobit.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "uriel",
+      "commonsFile": "File:Archangel Uriel icon - Annunciation Cathedral in Moscow) by shakko.jpg",
+      "altText": "Orthodox icon of the Archangel Uriel.",
+      "isArtisticReconstruction": false,
+      "note": "Russian Orthodox icon (Annunciation Cathedral, Moscow); photograph CC BY-SA 3.0, attribution required.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "metatron",
+      "commonsFile": "File:MetatronInIslamicArts.jpg",
+      "altText": "Fourteenth-century illustration labelled as Metatron in Islamic art.",
+      "isArtisticReconstruction": false,
+      "note": "14th-century Islamic manuscript image.",
+      "approved": false,
+      "reviewerAttention": "The entry is about Metatron in Jewish rabbinic literature; this image comes from a different tradition. Consider excluding.",
+      "heldReason": "Image comes from a different tradition (Islamic art for a figure in Jewish rabbinic literature)."
+    },
+    {
+      "entityID": "cherubim",
+      "commonsFile": "File:Cherubim Bate.jpg",
+      "altText": "Eighteenth-century engraving of cherubim.",
+      "isArtisticReconstruction": false,
+      "note": "Engraving, 1773.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "seraphim",
+      "commonsFile": "File:2. Seraph angel. 13th century CE. Ceiling mosaics, Hagia Sophia, Istanbul, Turkey.jpg",
+      "altText": "Mosaic of a six-winged seraph in Hagia Sophia, Istanbul.",
+      "isArtisticReconstruction": false,
+      "note": "Byzantine Christian mosaic; photograph CC BY-SA 4.0, attribution required.",
+      "approved": true,
+      "dateText": "13th century (mosaic)",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "israfil",
+      "commonsFile": "File:Angel Israfil, from Aja'ib al-makhluqat wa ghara'ib al-mawjudat (The Wonders of Creations and Oddities of Existence) by al-Qazvini, Iraq or Turkey, early 1400s, ink, color - Freer Gallery of Art - DSC04720.jpg",
+      "altText": "Manuscript painting of the angel Israfil from al-Qazwini's Wonders of Creation.",
+      "isArtisticReconstruction": false,
+      "note": "Islamic manuscript (early 1400s), al-Qazwini's 'Aja'ib al-makhluqat.",
+      "approved": true,
+      "dateText": "early 1400s (manuscript)",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "azrael",
+      "commonsFile": null,
+      "reason": "No historical Islamic manuscript image found on Commons; European Symbolist art would misrepresent an Islamic angel."
+    },
+    {
+      "entityID": "malik",
+      "commonsFile": "File:Maalik opens the gates of hell.jpg",
+      "altText": "Manuscript painting of the angel Malik opening the gates of Hell.",
+      "isArtisticReconstruction": false,
+      "note": "Islamic manuscript painting (David Collection, Copenhagen).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "harut-and-marut",
+      "commonsFile": "File:Harut and Marut in Babylon well.jpg",
+      "altText": "Painting of the angels Harut and Marut in a well at Babylon.",
+      "isArtisticReconstruction": false,
+      "note": "Islamic manuscript painting, c. 17th century. Chosen over files titled 'Fallen angels', which frame them in a way many Muslim interpretations do not share.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "munkar-and-nakir",
+      "commonsFile": "File:Zakariya ibn Muhammad Qazwini - The Angels Munkir and Nakir - Walters W65951B - Full Page.jpg",
+      "altText": "Manuscript painting of the angels Munkar and Nakir from al-Qazwini's Wonders of Creation.",
+      "isArtisticReconstruction": false,
+      "note": "Islamic manuscript (Walters Art Museum), 1717 copy of al-Qazwini.",
+      "approved": true,
+      "creator": "After Zakariya al-Qazwini; copy by Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani",
+      "dateText": "1717",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "kiraman-katibin",
+      "commonsFile": null,
+      "reason": "No suitable image found; search results were unrelated."
+    },
+    {
+      "entityID": "god-judaism",
+      "commonsFile": "File:Tetragrammaton11Q5.jpg",
+      "altText": "The divine name written in palaeo-Hebrew letters in a Dead Sea Scrolls Psalms scroll.",
+      "isArtisticReconstruction": false,
+      "note": "Ancient Jewish manuscript (11Q5); non-figurative.",
+      "approved": false,
+      "reviewerAttention": "Shows the Tetragrammaton. Jewish practice treats the written divine name with reverence; consider whether to display it or keep the placeholder.",
+      "dateText": "1st century CE (scroll)",
+      "creator": "Dead Sea Scrolls (11Q5)",
+      "heldReason": "Shows the written divine name; display not yet decided."
+    },
+    {
+      "entityID": "allah",
+      "commonsFile": "File:Allah-green.svg",
+      "altText": "The name Allah in Arabic calligraphy.",
+      "isArtisticReconstruction": false,
+      "note": "Calligraphy only, per the depiction policy.",
+      "approved": true,
+      "creator": "Mr100percent (English Wikipedia)",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "god-the-father",
+      "commonsFile": "File:Cima da Conegliano, God the Father.jpg",
+      "altText": "Cima da Conegliano's painting of God the Father.",
+      "isArtisticReconstruction": false,
+      "note": "Christian (Italian Renaissance), c. 1510–1517.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "jesus",
+      "commonsFile": "File:Christ Icon Sinai 6th century.jpg",
+      "altText": "Sixth-century icon of Christ Pantocrator from Saint Catherine's Monastery, Sinai.",
+      "isArtisticReconstruction": false,
+      "note": "Christian (Byzantine) icon, 6th century. Shown for an entry that Islam also regards as a prophet.",
+      "approved": true,
+      "reviewerAttention": "Shared figure: this is Christian art; caption identifies the tradition.",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "holy-spirit",
+      "commonsFile": "File:Holy Spirit stained-glass window (Cathedra Petri).jpg",
+      "altText": "Bernini's stained-glass window of the Holy Spirit as a dove, St Peter's Basilica.",
+      "isArtisticReconstruction": false,
+      "note": "Christian (Baroque) window, c. 1660; photograph CC0.",
+      "approved": true,
+      "dateText": "c. 1660 (window)",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "abraham",
+      "commonsFile": "File:Abraham serving the angels, Rembrandt van Rijn, 1646, private collection, USA.jpg",
+      "altText": "Rembrandt's painting of Abraham serving the three angels.",
+      "isArtisticReconstruction": false,
+      "note": "Christian-era European art, 1646 (Genesis 18).",
+      "approved": true,
+      "reviewerAttention": "Shared figure revered as a prophet in Islam; this is European art from the biblical tradition.",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "moses",
+      "commonsFile": "File:Rembrandt - Moses with the Ten Commandments - Google Art Project.jpg",
+      "altText": "Rembrandt's painting of Moses holding the tablets of the commandments.",
+      "isArtisticReconstruction": false,
+      "note": "European art, 1659.",
+      "approved": true,
+      "reviewerAttention": "Shared figure revered as a prophet in Islam; this is European art from the biblical tradition.",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "elijah",
+      "commonsFile": "File:Russian - Prophet Elijah's Fiery Ascension - Walters 372748.jpg",
+      "altText": "Russian icon of the prophet Elijah's fiery ascension.",
+      "isArtisticReconstruction": false,
+      "note": "Russian Orthodox icon, late 19th century.",
+      "approved": true,
+      "reviewerAttention": "Shared figure revered as a prophet in Islam; this is Christian art.",
+      "creator": "Anonymous Russian artist",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "muhammad",
+      "commonsFile": null,
+      "reason": "Depiction policy: no images of the Prophet Muhammad."
+    },
+    {
+      "entityID": "satan",
+      "commonsFile": "File:GustaveDoreParadiseLostSatanProfile.jpg",
+      "altText": "Gustave Doré's engraving of Satan from Milton's Paradise Lost.",
+      "isArtisticReconstruction": false,
+      "note": "Illustration of Milton's Paradise Lost (Christian literary tradition), 1866.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "iblis",
+      "commonsFile": "File:Smithsonian - The Garden of Heavenly Creatures Iblis crop.jpg",
+      "altText": "Detail of a sixteenth-century painting showing Iblis.",
+      "isArtisticReconstruction": false,
+      "note": "Islamic (Persian) painting, mid-16th century; cropped to Iblis alone. Chosen over scenes of the angels bowing to Adam, who is a prophet in Islam.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "lucifer",
+      "commonsFile": "File:Dore Lucifer.jpg",
+      "altText": "Gustave Doré's engraving of Lucifer from Dante's Inferno.",
+      "isArtisticReconstruction": false,
+      "note": "Illustration of Dante's Inferno (Christian literary tradition), 1861.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "beelzebub",
+      "commonsFile": "File:Beelzebub.png",
+      "altText": "Louis Le Breton's illustration of Beelzebub from the Dictionnaire Infernal.",
+      "isArtisticReconstruction": false,
+      "note": "19th-century French demonology book (1863), not scripture.",
+      "approved": true,
+      "reviewerAttention": "The Jewish classification is the god of Ekron in 2 Kings; this image reflects later Christian demonology.",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "asmodeus",
+      "commonsFile": "File:Asmodeus.jpg",
+      "altText": "Louis Le Breton's illustration of Asmodeus from the Dictionnaire Infernal.",
+      "isArtisticReconstruction": false,
+      "note": "19th-century French demonology book (1863), not scripture.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "lilith",
+      "commonsFile": "File:Lilith (John Collier painting).jpg",
+      "altText": "John Collier's 1887 painting of Lilith with a serpent.",
+      "isArtisticReconstruction": false,
+      "note": "Victorian painting (1887); a modern Western interpretation of a figure from Jewish folklore.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "azazel",
+      "commonsFile": "File:Azazel (DI).png",
+      "altText": "Louis Le Breton's illustration of Azazel from the Dictionnaire Infernal.",
+      "isArtisticReconstruction": false,
+      "note": "19th-century French demonology book (1863), not scripture.",
+      "approved": true,
+      "reviewerAttention": "The Leviticus classification treats Azazel as possibly a place or the goat; the image reflects later demonology.",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "abaddon",
+      "commonsFile": "File:Saint-Sever Beatus f. 145v - Locusts.jpg",
+      "altText": "Eleventh-century manuscript painting of the locusts of the abyss from Revelation 9.",
+      "isArtisticReconstruction": false,
+      "note": "Christian illuminated manuscript (Saint-Sever Beatus), 11th century.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "legion",
+      "commonsFile": "File:The Miracle of the Gadarene Swine - Google Art Project.jpg",
+      "altText": "Medieval manuscript painting of Jesus driving the demons into the herd of pigs.",
+      "isArtisticReconstruction": false,
+      "note": "Christian illuminated manuscript, about 1000.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "belial",
+      "commonsFile": "File:Belial-et-Moise1.jpg",
+      "altText": "Woodcut of Belial before Moses from Jacobus de Teramo's Book of Belial.",
+      "isArtisticReconstruction": false,
+      "note": "Christian devotional book, 1473 woodcut.",
+      "approved": true,
+      "creator": "Jacobus de Teramo, Das Buch Belial",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "shayatin",
+      "commonsFile": null,
+      "reason": "Search results showed Persian divs (Shahnameh demons), which are a different concept; using them would misrepresent the shayatin."
+    },
+    {
+      "entityID": "jinn",
+      "commonsFile": "File:The Singer Ibrahim and the jinn (cropped).jpg",
+      "altText": "Manuscript painting of the singer Ibrahim al-Mawsili meeting a jinn.",
+      "isArtisticReconstruction": false,
+      "note": "Islamic manuscript painting, c. 1295–1310. (Ibrahim here is the Abbasid court singer, not the prophet.)",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "ifrit",
+      "commonsFile": null,
+      "reason": "No historical manuscript image of an ifrit found on Commons."
+    },
+    {
+      "entityID": "nephilim",
+      "commonsFile": null,
+      "reason": "Search results were generic 'fallen angel' art, which would misrepresent the contested identity of the Nephilim."
+    },
+    {
+      "entityID": "leviathan",
+      "commonsFile": "File:Destruction of Leviathan.png",
+      "altText": "Gustave Doré's engraving of God destroying Leviathan.",
+      "isArtisticReconstruction": false,
+      "note": "European Bible illustration, 1865 (Isaiah 27:1).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "vishnu",
+      "commonsFile": "File:Raja Ravi Varma, Seshanarayana (Oleographic print).jpg",
+      "altText": "Raja Ravi Varma's print of Vishnu reclining on the serpent Shesha.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional print (Raja Ravi Varma, late 19th century).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "shiva",
+      "commonsFile": "File:MET DP221497.jpg",
+      "altText": "Bronze sculpture of Shiva as Nataraja, Lord of Dance, from the Metropolitan Museum of Art.",
+      "isArtisticReconstruction": false,
+      "note": "South Indian (Chola-period style) bronze, late 12th–early 13th century; museum photograph CC0.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "brahma",
+      "commonsFile": "File:Mural depicting Brahma, from Ramtatwali Dham, Hoshiarpur district, Punjab, circa 19th century.jpg",
+      "altText": "Nineteenth-century mural of Brahma from Punjab.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu temple mural (Kangra style), c. 19th century.",
+      "approved": true,
+      "creator": "Unknown Kangra muralists; photograph by Namita Jaspal",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "durga",
+      "commonsFile": "File:Durga by Raja Ravi Varma.jpg",
+      "altText": "Raja Ravi Varma's painting of the goddess Durga.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional painting (Raja Ravi Varma).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "lakshmi",
+      "commonsFile": "File:Raja Ravi Varma, Goddess Lakshmi, 1896.jpg",
+      "altText": "Raja Ravi Varma's 1896 painting of the goddess Lakshmi standing on a lotus.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional painting, 1896.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "saraswati",
+      "commonsFile": "File:Saraswati by Raja Ravi Varma.jpg",
+      "altText": "Raja Ravi Varma's painting of the goddess Saraswati with a veena.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional painting, 1894.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "parvati",
+      "commonsFile": "File:An Oleograph of Shiva, Parvati and Nandi by Raja Ravi Varma.jpg",
+      "altText": "Raja Ravi Varma's print of Shiva and Parvati with Nandi.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional print (Raja Ravi Varma).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "kali",
+      "commonsFile": "File:India, Calcutta, Kalighat painting, 19th century - Kali - 2003.116 - Cleveland Museum of Art.jpg",
+      "altText": "Nineteenth-century Kalighat painting of the goddess Kali.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu (Bengal) Kalighat painting, 19th century; CC0.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "ganesha",
+      "commonsFile": "File:Ganesha Basohli miniature circa 1730 Dubost p73.jpg",
+      "altText": "Basohli miniature painting of Ganesha.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu Pahari (Basohli) miniature, 18th century.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "kartikeya",
+      "commonsFile": "File:Murugan by Raja Ravi Varma.jpg",
+      "altText": "Raja Ravi Varma's painting of Kartikeya (Murugan) with his peacock.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional painting (Raja Ravi Varma).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "krishna",
+      "commonsFile": "File:Krishna and Arjun on the chariot, Mahabharata, 18th-19th century, India.jpg",
+      "altText": "Painting of Krishna and Arjuna on the chariot, the setting of the Bhagavad Gita.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, 18th–19th century.",
+      "approved": true,
+      "reviewerAttention": "Low resolution (523 px wide); may look soft on the detail screen.",
+      "dateText": "18th–19th century",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "rama",
+      "commonsFile": "File:Ramapanchayan, Raja Ravi Varma (Lithograph).jpg",
+      "altText": "Raja Ravi Varma's lithograph of Rama with Sita, Lakshmana, and Hanuman.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional lithograph (Raja Ravi Varma), before 1906.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "narasimha",
+      "commonsFile": "File:Narasimha oil colour.jpg",
+      "altText": "Eighteenth-century painting of Narasimha killing Hiranyakashipu.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, 18th century. Depicts a violent scene from the Bhagavata Purana.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "hanuman",
+      "commonsFile": "File:Hanuman finds sita in Ashoka vana A painting from Akbar Ramayana.jpg",
+      "altText": "Mughal painting of Hanuman finding Sita in the Ashoka grove.",
+      "isArtisticReconstruction": false,
+      "note": "Mughal Ramayana painting (Akbar's court).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "garuda",
+      "commonsFile": "File:Vishnu on Garuda MET DP-18171-001.jpg",
+      "altText": "Pahari painting of Vishnu riding Garuda.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu Pahari painting attributed to Sajnu of Mandi, c. 1810–20; CC0.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "indra",
+      "commonsFile": "File:Indra deva.jpg",
+      "altText": "Nineteenth-century painting of Indra.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, c. 1820.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "agni",
+      "commonsFile": "File:Agni god of fire.jpg",
+      "altText": "Nineteenth-century painting of Agni, god of fire.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, c. 1830.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "surya",
+      "commonsFile": "File:Sculpture of Surya on his Chariot, Nepal, 1600-1700 CE, Ashmolean Museum, Oxford Description Surya, the Sun god, bronze, Nepal, 1600-1700. Surya rides in his horse drawn chariot with attendants.jpg",
+      "altText": "Nepalese bronze of Surya riding his horse-drawn chariot.",
+      "isArtisticReconstruction": false,
+      "note": "Nepalese bronze, 1600–1700 (Ashmolean Museum); photograph CC BY-SA 4.0.",
+      "approved": true,
+      "dateText": "1600–1700 (sculpture)",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "varuna",
+      "commonsFile": "File:Varuna makara.jpg",
+      "altText": "Nineteenth-century painting of Varuna riding a makara.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, c. 1820.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "yama",
+      "commonsFile": "File:Yama on buffalo.jpg",
+      "altText": "Nineteenth-century painting of Yama riding a buffalo.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, c. 1820.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "mahishasura",
+      "commonsFile": "File:Durga Mahishasura-mardini, the slayer of the buffalo demon, Germany.jpg",
+      "altText": "Raja Ravi Varma's painting of Durga slaying Mahishasura.",
+      "isArtisticReconstruction": false,
+      "note": "Hindu devotional painting (Raja Ravi Varma), 1880.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "shumbha-and-nishumbha",
+      "commonsFile": "File:Kali Attacking Nisumbha, c. 1740.jpg",
+      "altText": "Eighteenth-century painting of Kali attacking Nishumbha.",
+      "isArtisticReconstruction": false,
+      "note": "Indian (Pahari) painting, c. 1740; illustrates the Devi Mahatmya.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "tarakasura",
+      "commonsFile": null,
+      "reason": "Only modern amateur drawings found; no historical artwork on Commons."
+    },
+    {
+      "entityID": "hiranyakashipu",
+      "commonsFile": "File:Viṣṇu as Narasimha tearing Hiranyakasipu to pieces..jpg",
+      "altText": "Mughal-style painting of Narasimha killing Hiranyakashipu.",
+      "isArtisticReconstruction": false,
+      "note": "Mughal-style painting, late 17th century. Depicts a violent scene.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "mahabali",
+      "commonsFile": "File:Anonymous - Vamana being blessed by King Bali - 2016.248 - Metropolitan Museum of Art.jpg",
+      "altText": "Painting of King Bali blessing the dwarf Vamana.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, 1780s (Metropolitan Museum of Art).",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "vritra",
+      "commonsFile": "File:Indra kills Vrttirasura (story from Rik Veda, featured in Bhagavatha).jpg",
+      "altText": "Illustration of Indra killing Vritra.",
+      "isArtisticReconstruction": false,
+      "note": "Indian book illustration, 1916.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "ravana",
+      "commonsFile": "File:Ravana fighting with Jatayu.jpg",
+      "altText": "K. Venkatappa's painting of Ravana fighting the vulture Jatayu.",
+      "isArtisticReconstruction": false,
+      "note": "Indian painting, 1914 (K. Venkatappa).",
+      "approved": false,
+      "reviewerAttention": "Confirm the public-domain status: the artist died in 1965.",
+      "heldReason": "Public-domain status unconfirmed (artist K. Venkatappa died 1965)."
+    },
+    {
+      "entityID": "kumbhakarna",
+      "commonsFile": "File:Kumbhakarna, the giant brother of Ravana.jpg",
+      "altText": "Company School painting of Kumbhakarna.",
+      "isArtisticReconstruction": false,
+      "note": "Indian Company School painting, 19th century.",
+      "approved": true,
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "vibhishana",
+      "commonsFile": "File:Vibhishana Meets Rama.jpg",
+      "altText": "Illustration of Vibhishana meeting Rama.",
+      "isArtisticReconstruction": false,
+      "note": "Indian book illustration, 1916.",
+      "approved": true,
+      "creator": "Ramachandra Madhwa Mahishi; illustrated by Balasaheb Pandit Pant Pratinidhi",
+      "dateText": "1916",
+      "approvedAt": "2026-11-04"
+    },
+    {
+      "entityID": "shurpanakha",
+      "commonsFile": "File:Surpanaka ramayana.jpg",
+      "altText": "Ravi Varma Press print of Shurpanakha from the Ramayana.",
+      "isArtisticReconstruction": false,
+      "note": "Indian lithograph (Ravi Varma Press), 1920s.",
+      "approved": false,
+      "reviewerAttention": "The episode involves her mutilation; check that this print is suitable.",
+      "heldReason": "Depicts her mutilation episode; suitability not yet decided."
+    }
+  ]
+}

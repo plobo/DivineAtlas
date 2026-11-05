@@ -1,0 +1,4 @@
+// Shared app build settings. Secrets are optional so the project builds
+// without them; the YouTube video list then falls back to a search button.
+YOUTUBE_API_KEY =
+#include? "Secrets.xcconfig"

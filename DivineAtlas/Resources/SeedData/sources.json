@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "src-tanakh",
+      "title": "Tanakh (Hebrew Bible)",
+      "sourceType": "primaryText",
+      "notes": "Citations use Hebrew (Masoretic) chapter and verse numbering, which occasionally differs from English Bibles. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-old-testament",
+      "title": "Old Testament",
+      "sourceType": "primaryText",
+      "notes": "The Christian Old Testament. Citations use the chapter and verse numbering common in English Bibles. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-new-testament",
+      "title": "New Testament",
+      "sourceType": "primaryText",
+      "notes": "Citations use standard chapter and verse numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-tobit",
+      "title": "Book of Tobit",
+      "sourceType": "primaryText",
+      "notes": "Part of the Catholic and Orthodox Old Testament; not part of the Jewish or Protestant canon. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-1-enoch",
+      "title": "1 Enoch",
+      "sourceType": "primaryText",
+      "notes": "A Jewish apocalyptic work of the Second Temple period. Not part of the Hebrew Bible; canonical in the Ethiopian Orthodox Tewahedo Church. Citations use the standard chapter and verse divisions. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-war-scroll",
+      "title": "War Scroll (1QM)",
+      "sourceType": "primaryText",
+      "notes": "A text among the Dead Sea Scrolls. Citations use column numbers. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-babylonian-talmud",
+      "title": "Babylonian Talmud",
+      "sourceType": "primaryText",
+      "notes": "Citations use tractate and folio (daf) references. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-alphabet-ben-sira",
+      "title": "Alphabet of Ben Sira",
+      "sourceType": "folklore",
+      "notes": "A medieval Jewish work of satirical and legendary character; cited here as a source of folklore, not scripture. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-vulgate",
+      "title": "Vulgate",
+      "sourceType": "primaryText",
+      "notes": "The Latin translation of the Bible associated with Jerome. Citations use standard chapter and verse numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-nicene-creed",
+      "title": "Niceno-Constantinopolitan Creed",
+      "sourceType": "primaryText",
+      "publicationDate": "381",
+      "notes": "Creed associated with the Councils of Nicaea (325) and Constantinople (381). Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-celestial-hierarchy",
+      "title": "The Celestial Hierarchy",
+      "sourceType": "commentary",
+      "author": "Pseudo-Dionysius the Areopagite",
+      "notes": "An early Christian theological treatise on the orders of angels. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-quran",
+      "title": "The Qur'an",
+      "sourceType": "primaryText",
+      "notes": "Verse numbering follows the standard Cairo (1924) edition. Translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-jami-tirmidhi",
+      "title": "Jami' at-Tirmidhi",
+      "sourceType": "primaryText",
+      "notes": "A canonical Sunni hadith collection. Citations identify the book (kitab), since hadith numbering varies between editions. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-rigveda",
+      "title": "Rigveda",
+      "sourceType": "primaryText",
+      "notes": "Citations use mandala.hymn (sukta) or mandala.hymn.verse numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-shvetashvatara-upanishad",
+      "title": "Shvetashvatara Upanishad",
+      "sourceType": "primaryText",
+      "notes": "Citations use chapter.verse numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-katha-upanishad",
+      "title": "Katha Upanishad",
+      "sourceType": "primaryText",
+      "notes": "Citations identify the chapter (adhyaya). Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-bhagavad-gita",
+      "title": "Bhagavad Gita",
+      "sourceType": "primaryText",
+      "notes": "Part of the Mahabharata (Bhishma Parva). Citations use chapter.verse numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-mahabharata",
+      "title": "Mahabharata",
+      "sourceType": "primaryText",
+      "notes": "Citations identify the book (parva). Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-valmiki-ramayana",
+      "title": "Ramayana of Valmiki",
+      "sourceType": "primaryText",
+      "notes": "Citations identify the book (kanda). Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-devi-mahatmya",
+      "title": "Devi Mahatmya (Markandeya Purana)",
+      "sourceType": "primaryText",
+      "notes": "Citations use the chapter numbering of the Devi Mahatmya's thirteen chapters. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-vishnu-purana",
+      "title": "Vishnu Purana",
+      "sourceType": "primaryText",
+      "notes": "Citations use book.chapter numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-bhagavata-purana",
+      "title": "Bhagavata Purana",
+      "sourceType": "primaryText",
+      "notes": "Citations use book (skandha).chapter numbering. Edition and translation to be confirmed during editorial review."
+    },
+    {
+      "id": "src-shiva-purana",
+      "title": "Shiva Purana",
+      "sourceType": "primaryText",
+      "notes": "Citations identify the samhita and section (khanda). Edition and translation to be confirmed during editorial review."
+    }
+  ]
+}

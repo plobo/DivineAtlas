@@ -1,0 +1,80 @@
+name: DivineAtlas
+
+options:
+  bundleIdPrefix: com.divineatlas
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+  developmentLanguage: en
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+
+targets:
+  DivineAtlas:
+    type: application
+    platform: iOS
+    sources:
+      - path: DivineAtlas
+    configFiles:
+      Debug: Config/App.xcconfig
+      Release: Config/App.xcconfig
+    # Merged with the generated Info.plist (GENERATE_INFOPLIST_FILE).
+    info:
+      path: Config/Info.plist
+      properties:
+        YouTubeAPIKey: $(YOUTUBE_API_KEY)
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.divineatlas.DivineAtlas
+        PRODUCT_NAME: DivineAtlas
+        TARGETED_DEVICE_FAMILY: "1"
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: Divine Atlas
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_UIUserInterfaceStyle: Dark
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+
+  DivineAtlasTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: Tests/DivineAtlasTests
+    dependencies:
+      - target: DivineAtlas
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_BUNDLE_IDENTIFIER: com.divineatlas.DivineAtlasTests
+
+  DivineAtlasUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - path: Tests/DivineAtlasUITests
+    dependencies:
+      - target: DivineAtlas
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_BUNDLE_IDENTIFIER: com.divineatlas.DivineAtlasUITests
+        TEST_TARGET_NAME: DivineAtlas
+
+schemes:
+  DivineAtlas:
+    build:
+      targets:
+        DivineAtlas: all
+    test:
+      gatherCoverageData: true
+      targets:
+        - DivineAtlasTests
+        - DivineAtlasUITests

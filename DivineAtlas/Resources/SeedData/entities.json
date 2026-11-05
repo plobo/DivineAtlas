@@ -1,0 +1,3628 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "michael",
+      "name": "Michael",
+      "alternativeNames": [
+        "Mikha'el",
+        "Mikail",
+        "Mika'il",
+        "Mikal"
+      ],
+      "summary": "An angel named in the Hebrew Bible, the New Testament, and the Qur'an, understood in distinct ways by each tradition.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel, one of the chief princes",
+          "explanation": "The Book of Daniel describes Michael as one of the chief princes and as a great prince who stands guard over Daniel's people. Later rabbinic literature develops further traditions about him.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Daniel 10:13"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Daniel 12:1"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "archangel",
+          "group": "divineAndCelestial",
+          "label": "Archangel",
+          "explanation": "The Epistle of Jude calls Michael an archangel, and the Book of Revelation describes Michael and his angels fighting against the dragon.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Jude 1:9"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Revelation 12:7"
+            }
+          ]
+        },
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel (Mikail)",
+          "explanation": "The Qur'an names Mikail alongside Jibril.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:98"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "michael-gabriel",
+          "relatedEntityID": "gabriel",
+          "relationshipType": "namedTogether",
+          "explanation": "The Qur'an names Mikail and Jibril together.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:98"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "michael-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/1280px-GuidoReni_MichaelDefeatsSatan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Painting by Guido Reni of the Archangel Michael defeating Satan.",
+          "creator": "Guido Reni",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:GuidoReni_MichaelDefeatsSatan.jpg",
+          "attributionText": "Guido Reni, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "between circa 1630 and circa 1635"
+        }
+      ]
+    },
+    {
+      "id": "gabriel",
+      "name": "Gabriel",
+      "alternativeNames": [
+        "Gavri'el",
+        "Jibril",
+        "Jibra'il",
+        "Jibreel"
+      ],
+      "summary": "An angel associated with bringing messages from God in the Hebrew Bible, the New Testament, and the Qur'an.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel",
+          "explanation": "In the Book of Daniel, Gabriel is sent to help Daniel understand his visions.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Daniel 8:16"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Daniel 9:21"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel (traditionally called an archangel)",
+          "explanation": "In the Gospel of Luke, Gabriel announces the births of John the Baptist and Jesus. Many Christian traditions refer to Gabriel as an archangel, although the New Testament text calls him an angel.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Luke 1:19"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Luke 1:26"
+            }
+          ]
+        },
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel (Jibril)",
+          "explanation": "The Qur'an names Jibril as the one who brought the revelation down to the heart of the Prophet Muhammad.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:97"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "gabriel-michael",
+          "relatedEntityID": "michael",
+          "relationshipType": "namedTogether",
+          "explanation": "The Qur'an names Jibril and Mikail together.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:98"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "gabriel-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fra_Angelico_-_The_Annunciation_-_WGA0455.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Fra Angelico's Annunciation, showing the angel Gabriel and Mary.",
+          "creator": "Fra Angelico",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Annunciation_-_WGA0455.jpg",
+          "attributionText": "Fra Angelico, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "between 1430 and 1432"
+        }
+      ]
+    },
+    {
+      "id": "raphael",
+      "name": "Raphael",
+      "alternativeNames": [
+        "Rafael",
+        "Repha'el"
+      ],
+      "summary": "An angel named in the Book of Tobit and in rabbinic literature, associated with healing.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel",
+          "explanation": "The Babylonian Talmud identifies the three visitors to Abraham as the angels Michael, Gabriel, and Raphael, with Raphael sent to heal Abraham.",
+          "citations": [
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Bava Metzia 86b"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "archangel",
+          "group": "divineAndCelestial",
+          "label": "Archangel",
+          "explanation": "In the Book of Tobit, Raphael travels with Tobias in disguise and later reveals himself as one of the seven angels who stand before the Lord. The Book of Tobit is part of the Catholic and Orthodox Old Testament but not the Protestant canon.",
+          "citations": [
+            {
+              "sourceID": "src-tobit",
+              "locator": "12:15"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "raphael-michael",
+          "relatedEntityID": "michael",
+          "relationshipType": "namedTogether",
+          "explanation": "The Babylonian Talmud names Raphael with Michael and Gabriel as the three angels who visited Abraham.",
+          "citations": [
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Bava Metzia 86b"
+            }
+          ]
+        },
+        {
+          "id": "raphael-asmodeus",
+          "relatedEntityID": "asmodeus",
+          "relationshipType": "opposes",
+          "explanation": "In the Book of Tobit, Raphael binds the demon Asmodeus.",
+          "citations": [
+            {
+              "sourceID": "src-tobit",
+              "locator": "8:3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "raphael-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Tobias_and_the_Angel_-_Filippino_Lippi.jpg/1280px-Tobias_and_the_Angel_-_Filippino_Lippi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Filippino Lippi's painting of Tobias walking with the angel Raphael.",
+          "creator": "Filippino Lippi",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Tobias_and_the_Angel_-_Filippino_Lippi.jpg",
+          "attributionText": "Filippino Lippi, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "between circa 1472 and circa 1482"
+        }
+      ]
+    },
+    {
+      "id": "uriel",
+      "name": "Uriel",
+      "alternativeNames": [
+        "Auriel",
+        "Ouriel"
+      ],
+      "summary": "An angel named in 1 Enoch and venerated as an archangel in some Christian traditions.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel in Second Temple literature",
+          "explanation": "1 Enoch, a Jewish apocalyptic work of the Second Temple period that is not part of the Hebrew Bible, names Uriel as one of the holy angels.",
+          "citations": [
+            {
+              "sourceID": "src-1-enoch",
+              "locator": "20:2"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "archangel",
+          "group": "divineAndCelestial",
+          "label": "Archangel in some traditions",
+          "explanation": "1 Enoch is part of the scripture of the Ethiopian Orthodox Tewahedo Church. Eastern Orthodox traditions venerate Uriel as an archangel, while the Catholic Church recognises only Michael, Gabriel, and Raphael by name.",
+          "citations": [
+            {
+              "sourceID": "src-1-enoch",
+              "locator": "20:2"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "uriel-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Archangel_Uriel_icon_-_Annunciation_Cathedral_in_Moscow%29_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Orthodox icon of the Archangel Uriel.",
+          "creator": "Shakko",
+          "license": "CC BY-SA 3.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Archangel_Uriel_icon_-_Annunciation_Cathedral_in_Moscow)_by_shakko.jpg",
+          "attributionText": "Shakko, CC BY-SA 3.0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      ]
+    },
+    {
+      "id": "metatron",
+      "name": "Metatron",
+      "alternativeNames": [
+        "Matatron"
+      ],
+      "summary": "An exalted angel mentioned in the Babylonian Talmud.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel in rabbinic literature",
+          "explanation": "The Babylonian Talmud mentions Metatron in several passages, including one that describes him as an angel whose name is like the name of his Master, and one that describes him teaching schoolchildren.",
+          "citations": [
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Sanhedrin 38b"
+            },
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Avodah Zarah 3b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cherubim",
+      "name": "Cherubim",
+      "alternativeNames": [
+        "Cherub",
+        "Keruv",
+        "Keruvim"
+      ],
+      "summary": "Winged beings in the Hebrew Bible associated with guarding sacred space and with the presence of God.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Cherubim (keruvim)",
+          "explanation": "In Genesis, cherubim guard the way to the tree of life after the expulsion from Eden. Exodus describes two golden cherubim on the cover of the Ark of the Covenant, and Ezekiel describes cherubim in his visions.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Genesis 3:24"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Exodus 25:18–22"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Ezekiel 10"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Order of angels",
+          "explanation": "In the angelic hierarchy described by Pseudo-Dionysius, which has been influential in Christian theology, the cherubim belong to the highest group of angelic orders.",
+          "citations": [
+            {
+              "sourceID": "src-old-testament",
+              "locator": "Genesis 3:24"
+            },
+            {
+              "sourceID": "src-celestial-hierarchy",
+              "locator": "Chapters 6–7"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "cherubim-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Cherubim_Bate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Eighteenth-century engraving of cherubim.",
+          "creator": "Unknown engraver",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Cherubim_Bate.jpg",
+          "attributionText": "Unknown engraver, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1773"
+        }
+      ]
+    },
+    {
+      "id": "seraphim",
+      "name": "Seraphim",
+      "alternativeNames": [
+        "Seraph",
+        "Saraf"
+      ],
+      "summary": "Six-winged beings seen in Isaiah's vision of the heavenly throne.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Seraphim",
+          "explanation": "In Isaiah's vision, seraphim with six wings stand above the Lord's throne and call to one another, proclaiming God's holiness.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Isaiah 6:2–3"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Highest order of angels",
+          "explanation": "In the angelic hierarchy described by Pseudo-Dionysius, the seraphim are the highest of the nine orders of angels.",
+          "citations": [
+            {
+              "sourceID": "src-old-testament",
+              "locator": "Isaiah 6:2–3"
+            },
+            {
+              "sourceID": "src-celestial-hierarchy",
+              "locator": "Chapter 7"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "seraphim-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2._Seraph_angel._13th_century_CE._Ceiling_mosaics%2C_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg/1280px-2._Seraph_angel._13th_century_CE._Ceiling_mosaics%2C_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Mosaic of a six-winged seraph in Hagia Sophia, Istanbul.",
+          "creator": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:2._Seraph_angel._13th_century_CE._Ceiling_mosaics,_Hagia_Sophia,_Istanbul,_Turkey.jpg",
+          "attributionText": "Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "dateText": "13th century (mosaic)"
+        }
+      ]
+    },
+    {
+      "id": "israfil",
+      "name": "Israfil",
+      "alternativeNames": [
+        "Israfeel",
+        "Israfel"
+      ],
+      "summary": "In Islamic tradition, the angel who will blow the Horn at the end of the world.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel (Israfil)",
+          "explanation": "The Qur'an describes the Horn being blown, after which all in the heavens and on the earth fall dead except whom Allah wills. Islamic tradition identifies the angel who blows it as Israfil, who is not named in the Qur'an itself.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "39:68"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "israfil-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Angel_Israfil%2C_from_Aja%27ib_al-makhluqat_wa_ghara%27ib_al-mawjudat_%28The_Wonders_of_Creations_and_Oddities_of_Existence%29_by_al-Qazvini%2C_Iraq_or_Turkey%2C_early_1400s%2C_ink%2C_color_-_Freer_Gallery_of_Art_-_DSC04720.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Manuscript painting of the angel Israfil from al-Qazwini's Wonders of Creation.",
+          "creator": "Daderot",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Angel_Israfil,_from_Aja%27ib_al-makhluqat_wa_ghara%27ib_al-mawjudat_(The_Wonders_of_Creations_and_Oddities_of_Existence)_by_al-Qazvini,_Iraq_or_Turkey,_early_1400s,_ink,_color_-_Freer_Gallery_of_Art_-_DSC04720.jpg",
+          "attributionText": "Daderot, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "early 1400s (manuscript)"
+        }
+      ]
+    },
+    {
+      "id": "azrael",
+      "name": "Azrael",
+      "alternativeNames": [
+        "Malak al-Mawt",
+        "Azra'il",
+        "Izra'il",
+        "Angel of Death"
+      ],
+      "summary": "The angel of death in Islamic tradition, known in later tradition by the name Azrael.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel of death (Malak al-Mawt)",
+          "explanation": "The Qur'an refers to the angel of death who has been entrusted with taking souls. The name Azrael comes from later tradition and does not appear in the Qur'an.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "32:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "malik",
+      "name": "Malik",
+      "alternativeNames": [
+        "Maalik"
+      ],
+      "summary": "In the Qur'an, the angel addressed by the people of Hell.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angel, guardian of Hell",
+          "explanation": "In the Qur'an, the people of Hell call on Malik to ask that his Lord put an end to them, and he replies that they will remain. Islamic tradition regards him as the chief guardian of Hell.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "43:77"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "malik-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Maalik_opens_the_gates_of_hell.jpg/1280px-Maalik_opens_the_gates_of_hell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Manuscript painting of the angel Malik opening the gates of Hell.",
+          "creator": "The David Collection, Copenhagen",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Maalik_opens_the_gates_of_hell.jpg",
+          "attributionText": "The David Collection, Copenhagen, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "between 1000 and 1700"
+        }
+      ]
+    },
+    {
+      "id": "harut-and-marut",
+      "name": "Harut and Marut",
+      "alternativeNames": [
+        "Haroot and Maroot"
+      ],
+      "summary": "Two angels mentioned in the Qur'an in connection with Babylon and the teaching of magic.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Two angels at Babylon",
+          "explanation": "The Qur'an mentions Harut and Marut, two angels at Babylon, who taught no one without first warning that they were only a trial. Commentators have offered differing accounts of their story.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:102"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "harut-and-marut-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Harut_and_Marut_in_Babylon_well.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Painting of the angels Harut and Marut in a well at Babylon.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Harut_and_Marut_in_Babylon_well.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "c. 17th century"
+        }
+      ]
+    },
+    {
+      "id": "munkar-and-nakir",
+      "name": "Munkar and Nakir",
+      "alternativeNames": [
+        "Munkar wa Nakir"
+      ],
+      "summary": "In Islamic tradition, two angels who question the dead in the grave.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Angels of the grave",
+          "explanation": "Hadith literature names Munkar and Nakir as the angels who question the dead in the grave about their faith. They are not named in the Qur'an.",
+          "citations": [
+            {
+              "sourceID": "src-jami-tirmidhi",
+              "locator": "Book of Funerals (Kitab al-Jana'iz)"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "munkar-and-nakir-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zakariya_ibn_Muhammad_Qazwini_-_The_Angels_Munkir_and_Nakir_-_Walters_W65951B_-_Full_Page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Manuscript painting of the angels Munkar and Nakir from al-Qazwini's Wonders of Creation.",
+          "creator": "After Zakariya al-Qazwini; copy by Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Zakariya_ibn_Muhammad_Qazwini_-_The_Angels_Munkir_and_Nakir_-_Walters_W65951B_-_Full_Page.jpg",
+          "attributionText": "After Zakariya al-Qazwini; copy by Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1717"
+        }
+      ]
+    },
+    {
+      "id": "kiraman-katibin",
+      "name": "Kiraman Katibin",
+      "alternativeNames": [
+        "Kiraman Katibeen",
+        "Noble Scribes"
+      ],
+      "summary": "In Islamic belief, the angels who record each person's deeds.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "angel",
+          "group": "divineAndCelestial",
+          "label": "Recording angels",
+          "explanation": "The Qur'an describes noble angels appointed over people who record their deeds, and two receivers seated on the right and on the left. The phrase kiraman katibin (noble recorders) comes from Qur'an 82:11.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "82:10–12"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "50:17–18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "god-judaism",
+      "name": "God (Judaism)",
+      "alternativeNames": [
+        "Adonai",
+        "HaShem",
+        "Elohim"
+      ],
+      "summary": "The one God of Judaism, who in the Hebrew Bible enters into a covenant with the people of Israel.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "The one God",
+          "explanation": "The Shema proclaims that the Lord is one. In Exodus, God reveals the divine name to Moses at the burning bush. Out of reverence, Jewish practice avoids pronouncing the divine name, using substitutes such as Adonai or HaShem.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Deuteronomy 6:4"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Exodus 3:13–15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "allah",
+      "name": "Allah",
+      "alternativeNames": [
+        "al-Rahman"
+      ],
+      "summary": "The Arabic word for God, used in Islam for the one God.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "The one God (Allah)",
+          "explanation": "The Qur'an describes Allah as One, the Eternal Refuge, who neither begets nor is born, and to whom belong the best names. Arabic-speaking Jews and Christians also use the word Allah for God.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "112:1–4"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "7:180"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "allah-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/1280px-Allah-green.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "The name Allah in Arabic calligraphy.",
+          "creator": "Mr100percent (English Wikipedia)",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Allah-green.svg",
+          "attributionText": "Mr100percent (English Wikipedia), Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "god-the-father",
+      "name": "God the Father",
+      "alternativeNames": [
+        "The Father"
+      ],
+      "summary": "In Christian theology, the first person of the Trinity.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "christianity",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "First person of the Trinity",
+          "explanation": "In the Gospel of Matthew, Jesus teaches his disciples to pray to their Father in heaven and commands baptism in the name of the Father, the Son, and the Holy Spirit. The doctrine of the Trinity was articulated in the early Christian creeds.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 6:9"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 28:19"
+            },
+            {
+              "sourceID": "src-nicene-creed"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "god-the-father-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Cima da Conegliano's painting of God the Father.",
+          "creator": "Attributed to Giovanni Battista Cima da Conegliano",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano,_God_the_Father.jpg",
+          "attributionText": "Attributed to Giovanni Battista Cima da Conegliano, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 1510-1517"
+        }
+      ]
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus",
+      "alternativeNames": [
+        "Jesus Christ",
+        "Jesus of Nazareth",
+        "Yeshua",
+        "Isa"
+      ],
+      "summary": "The central figure of Christianity, also honoured as a prophet and messenger in Islam.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "christianity",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Son of God; second person of the Trinity",
+          "explanation": "The New Testament proclaims Jesus as the Christ and the Son of God. Most Christian traditions, following the early creeds, confess him as fully divine and fully human.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 16:16"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "John 1:1–14"
+            },
+            {
+              "sourceID": "src-nicene-creed"
+            }
+          ]
+        },
+        {
+          "traditionID": "islam",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet and messenger (Isa)",
+          "explanation": "The Qur'an honours Isa, son of Maryam, as a prophet who was given scripture, and calls him the Messiah and a messenger of Allah, while rejecting the belief that he is divine or that God is three.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "19:30"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "4:171"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "jesus-god-the-father",
+          "relatedEntityID": "god-the-father",
+          "relationshipType": "sonOf",
+          "explanation": "Christian creeds confess Jesus as the Son of God the Father.",
+          "citations": [
+            {
+              "sourceID": "src-nicene-creed"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "jesus-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Christ_Icon_Sinai_6th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Sixth-century icon of Christ Pantocrator from Saint Catherine's Monastery, Sinai.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Christ_Icon_Sinai_6th_century.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "6th century. ; 2008-04"
+        }
+      ]
+    },
+    {
+      "id": "holy-spirit",
+      "name": "Holy Spirit",
+      "alternativeNames": [
+        "Holy Ghost",
+        "Paraclete"
+      ],
+      "summary": "In Christian theology, the third person of the Trinity.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "christianity",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Third person of the Trinity",
+          "explanation": "The Book of Acts describes the Holy Spirit coming upon the apostles at Pentecost, and Matthew's Gospel names the Holy Spirit with the Father and the Son in the baptismal command. The Nicene Creed confesses the Holy Spirit as the Lord and giver of life.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Acts 2:1–4"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 28:19"
+            },
+            {
+              "sourceID": "src-nicene-creed"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "holy-spirit-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Holy_Spirit_stained-glass_window_%28Cathedra_Petri%29.jpg/1280px-Holy_Spirit_stained-glass_window_%28Cathedra_Petri%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Bernini's stained-glass window of the Holy Spirit as a dove, St Peter's Basilica.",
+          "creator": "Wilfredor",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Holy_Spirit_stained-glass_window_(Cathedra_Petri).jpg",
+          "attributionText": "Wilfredor, CC0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "dateText": "c. 1660 (window)"
+        }
+      ]
+    },
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "alternativeNames": [
+        "Avraham",
+        "Ibrahim"
+      ],
+      "summary": "The patriarch revered in Judaism, Christianity, and Islam as a model of faith in one God.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Patriarch",
+          "explanation": "Genesis describes God's call to Abraham and the covenant made with him, and in one passage God calls Abraham a prophet. Abraham is revered as the first patriarch of the Jewish people.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Genesis 12:1–3"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Genesis 15"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Genesis 20:7"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "other",
+          "group": "other",
+          "label": "Patriarch and model of faith",
+          "explanation": "The New Testament presents Abraham as an example of faith, who obeyed when he was called to go out to a place he would receive as an inheritance.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Romans 4"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Hebrews 11:8"
+            }
+          ]
+        },
+        {
+          "traditionID": "islam",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet (Ibrahim)",
+          "explanation": "The Qur'an describes Ibrahim as inclining toward truth and states that Allah took him as an intimate friend. It also describes Ibrahim and Ismail raising the foundations of the House.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "4:125"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "2:127"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "abraham-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Abraham_serving_the_angels%2C_Rembrandt_van_Rijn%2C_1646%2C_private_collection%2C_USA.jpg/1280px-Abraham_serving_the_angels%2C_Rembrandt_van_Rijn%2C_1646%2C_private_collection%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Rembrandt's painting of Abraham serving the three angels.",
+          "creator": "Rembrandt",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Abraham_serving_the_angels,_Rembrandt_van_Rijn,_1646,_private_collection,_USA.jpg",
+          "attributionText": "Rembrandt, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1 January 1646"
+        }
+      ]
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "alternativeNames": [
+        "Moshe",
+        "Musa"
+      ],
+      "summary": "The prophet who, in the Hebrew Bible, leads the Israelites out of Egypt and receives the Torah.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet and teacher (Moshe Rabbenu)",
+          "explanation": "Moses encounters God at the burning bush, leads Israel out of Egypt, and receives the commandments at Sinai. Deuteronomy states that no prophet like Moses has since arisen in Israel, whom the Lord knew face to face.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Exodus 3"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Exodus 19–20"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Deuteronomy 34:10"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet",
+          "explanation": "In the Gospels, Moses appears with Elijah at the Transfiguration of Jesus.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 17:1–3"
+            }
+          ]
+        },
+        {
+          "traditionID": "islam",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet and messenger (Musa)",
+          "explanation": "The Qur'an calls Musa a chosen messenger and prophet, and states that Allah spoke to him directly.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "19:51"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "4:164"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "moses-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg/1280px-Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Rembrandt's painting of Moses holding the tablets of the commandments.",
+          "creator": "Rembrandt",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg",
+          "attributionText": "Rembrandt, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1659"
+        }
+      ]
+    },
+    {
+      "id": "elijah",
+      "name": "Elijah",
+      "alternativeNames": [
+        "Eliyahu",
+        "Elias",
+        "Ilyas"
+      ],
+      "summary": "A prophet of the Hebrew Bible who is taken up to heaven in a whirlwind.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet (Eliyahu)",
+          "explanation": "The Books of Kings describe Elijah's opposition to the worship of Baal and his ascent to heaven in a whirlwind. Malachi foretells that God will send Elijah before the day of the Lord, and Jewish tradition anticipates his return.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "1 Kings 18"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "2 Kings 2:11"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Malachi 3:23"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet",
+          "explanation": "The Gospels connect John the Baptist with the expected coming of Elijah, and Elijah appears with Moses at the Transfiguration.",
+          "citations": [
+            {
+              "sourceID": "src-old-testament",
+              "locator": "Malachi 4:5"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 11:14"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 17:3"
+            }
+          ]
+        },
+        {
+          "traditionID": "islam",
+          "category": "prophet",
+          "group": "other",
+          "label": "Prophet and messenger (Ilyas)",
+          "explanation": "The Qur'an counts Ilyas among the messengers.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "37:123"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "elijah-moses",
+          "relatedEntityID": "moses",
+          "relationshipType": "appearsWith",
+          "explanation": "In the Gospels, Elijah and Moses appear together at the Transfiguration.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 17:3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "elijah-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Russian_-_Prophet_Elijah%27s_Fiery_Ascension_-_Walters_372748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Russian icon of the prophet Elijah's fiery ascension.",
+          "creator": "Anonymous Russian artist",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Russian_-_Prophet_Elijah%27s_Fiery_Ascension_-_Walters_372748.jpg",
+          "attributionText": "Anonymous Russian artist, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "late 19th century"
+        }
+      ]
+    },
+    {
+      "id": "muhammad",
+      "name": "Muhammad",
+      "alternativeNames": [
+        "Mohammed",
+        "the Prophet"
+      ],
+      "summary": "In Islam, the final prophet and messenger of God, to whom the Qur'an was revealed.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "prophet",
+          "group": "other",
+          "label": "Messenger of Allah and last of the prophets",
+          "explanation": "The Qur'an names Muhammad as the Messenger of Allah and the last of the prophets. Muslims believe the Qur'an was revealed to him through the angel Jibril.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "48:29"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "33:40"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "2:97"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "muhammad-gabriel",
+          "relatedEntityID": "gabriel",
+          "relationshipType": "receivedRevelationThrough",
+          "explanation": "The Qur'an names Jibril as the one who brought the revelation down to the Prophet's heart.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:97"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "satan",
+      "name": "Satan",
+      "alternativeNames": [
+        "ha-satan",
+        "the Adversary",
+        "the Devil"
+      ],
+      "summary": "A name derived from a Hebrew word meaning adversary or accuser, whose role is understood very differently in the Hebrew Bible and in Christianity.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "The adversary (ha-satan)",
+          "explanation": "In the books of Job and Zechariah, ha-satan appears as an accuser in the heavenly court who acts only with God's permission. Mainstream Jewish interpretation generally understands this figure as subordinate to God rather than as an independent opposing power.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Job 1–2"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Zechariah 3:1–2"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "fallenAngel",
+          "group": "adversarial",
+          "label": "The devil",
+          "explanation": "The Book of Revelation identifies the dragon with the Devil and Satan, who is cast out of heaven together with his angels. Christian theology developed the understanding of Satan as a fallen angel.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Revelation 12:9"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "satan-iblis",
+          "relatedEntityID": "iblis",
+          "relationshipType": "comparedWith",
+          "explanation": "Islamic tradition also uses the title al-Shaytan for Iblis. Because the Qur'anic account differs from Jewish and Christian accounts, the figures are kept as separate entries."
+        },
+        {
+          "id": "satan-lucifer",
+          "relatedEntityID": "lucifer",
+          "relationshipType": "identifiedWith",
+          "explanation": "Later Christian tradition applies the name Lucifer to Satan."
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "satan-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/GustaveDoreParadiseLostSatanProfile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Gustave Doré's engraving of Satan from Milton's Paradise Lost.",
+          "creator": "Gustave Doré",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:GustaveDoreParadiseLostSatanProfile.jpg",
+          "attributionText": "Gustave Doré, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1866"
+        }
+      ]
+    },
+    {
+      "id": "iblis",
+      "name": "Iblis",
+      "alternativeNames": [
+        "al-Shaytan",
+        "Shaytan"
+      ],
+      "summary": "In Islamic tradition, the being who refused God's command to prostrate before Adam.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "jinn",
+          "group": "adversarial",
+          "label": "Iblis, who was of the jinn",
+          "explanation": "The Qur'an recounts that Iblis refused to prostrate to Adam when commanded by God, and states that he was of the jinn. Muslim scholars have historically differed on whether Iblis was originally an angel or a jinn.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "2:34"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "18:50"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "iblis-satan",
+          "relatedEntityID": "satan",
+          "relationshipType": "comparedWith",
+          "explanation": "Iblis is sometimes compared with the Christian figure of Satan. The Qur'anic account differs, so the figures are kept as separate entries."
+        },
+        {
+          "id": "iblis-jinn",
+          "relatedEntityID": "jinn",
+          "relationshipType": "memberOf",
+          "explanation": "The Qur'an states that Iblis was of the jinn.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "18:50"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "iblis-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Smithsonian_-_The_Garden_of_Heavenly_Creatures_Iblis_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Detail of a sixteenth-century painting showing Iblis.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Smithsonian_-_The_Garden_of_Heavenly_Creatures_Iblis_crop.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "mid-16th century"
+        }
+      ]
+    },
+    {
+      "id": "lucifer",
+      "name": "Lucifer",
+      "alternativeNames": [
+        "Morning Star",
+        "Day Star",
+        "Helel ben Shahar"
+      ],
+      "summary": "A name drawn from the Latin rendering of Isaiah 14:12, later applied by Christian tradition to Satan.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Shining one, son of dawn (Isaiah 14:12)",
+          "explanation": "In Isaiah 14, the figure called the shining one, son of dawn, appears in a taunt directed at the king of Babylon. Jewish interpretation reads the passage as concerning the king rather than a fallen angel.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Isaiah 14:4"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Isaiah 14:12"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "fallenAngel",
+          "group": "adversarial",
+          "label": "A name for Satan in later tradition",
+          "explanation": "The Latin Vulgate rendered the shining one of Isaiah 14:12 as lucifer, meaning light-bringer. Christian interpreters came to read the passage as describing the fall of Satan, and the name Lucifer became associated with him.",
+          "citations": [
+            {
+              "sourceID": "src-vulgate",
+              "locator": "Isaiah 14:12"
+            },
+            {
+              "sourceID": "src-old-testament",
+              "locator": "Isaiah 14:12"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "lucifer-satan",
+          "relatedEntityID": "satan",
+          "relationshipType": "identifiedWith",
+          "explanation": "Later Christian tradition identifies Lucifer with Satan."
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "lucifer-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Dore_Lucifer.jpg/1280px-Dore_Lucifer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Gustave Doré's engraving of Lucifer from Dante's Inferno.",
+          "creator": "Gustave Doré",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Dore_Lucifer.jpg",
+          "attributionText": "Gustave Doré, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1861"
+        }
+      ]
+    },
+    {
+      "id": "beelzebub",
+      "name": "Beelzebub",
+      "alternativeNames": [
+        "Beelzebul",
+        "Baal-zebub",
+        "Ba'al Zevuv"
+      ],
+      "summary": "A name that refers to the god of Ekron in the Hebrew Bible and to the ruler of demons in the Gospels.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "god",
+          "group": "other",
+          "label": "Deity of Ekron (Baal-zebub)",
+          "explanation": "In 2 Kings, King Ahaziah sends messengers to inquire of Baal-zebub, the god of Ekron, and the prophet Elijah rebukes him for it.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "2 Kings 1:2–3"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "demon",
+          "group": "adversarial",
+          "label": "Ruler of demons (Beelzebul)",
+          "explanation": "In the Gospels, Jesus's opponents claim that he casts out demons by Beelzebul, the ruler of the demons.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Matthew 12:24"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Mark 3:22"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "beelzebub-elijah",
+          "relatedEntityID": "elijah",
+          "relationshipType": "opposedBy",
+          "explanation": "In 2 Kings, Elijah rebukes King Ahaziah for consulting Baal-zebub.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "2 Kings 1:3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "beelzebub-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Beelzebub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Louis Le Breton's illustration of Beelzebub from the Dictionnaire Infernal.",
+          "creator": "Louis Le Breton",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Beelzebub.png",
+          "attributionText": "Louis Le Breton, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1863"
+        }
+      ]
+    },
+    {
+      "id": "asmodeus",
+      "name": "Asmodeus",
+      "alternativeNames": [
+        "Ashmedai",
+        "Asmodai"
+      ],
+      "summary": "A demon in the Book of Tobit and the king of demons in rabbinic legend.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "demon",
+          "group": "adversarial",
+          "label": "King of demons (Ashmedai)",
+          "explanation": "The Babylonian Talmud tells how King Solomon captured Ashmedai, king of the demons, to learn where to find the shamir needed to build the Temple.",
+          "citations": [
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Gittin 68a–b"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "demon",
+          "group": "adversarial",
+          "label": "Demon in the Book of Tobit",
+          "explanation": "In the Book of Tobit, the demon Asmodeus kills each of Sarah's seven husbands before the marriage is consummated, until Raphael helps Tobias drive him away.",
+          "citations": [
+            {
+              "sourceID": "src-tobit",
+              "locator": "3:8"
+            },
+            {
+              "sourceID": "src-tobit",
+              "locator": "8:3"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "asmodeus-raphael",
+          "relatedEntityID": "raphael",
+          "relationshipType": "opposedBy",
+          "explanation": "In the Book of Tobit, Raphael binds the demon Asmodeus.",
+          "citations": [
+            {
+              "sourceID": "src-tobit",
+              "locator": "8:3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "asmodeus-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Asmodeus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Louis Le Breton's illustration of Asmodeus from the Dictionnaire Infernal.",
+          "creator": "Louis Le Breton",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Asmodeus.jpg",
+          "attributionText": "Louis Le Breton, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1863"
+        }
+      ]
+    },
+    {
+      "id": "lilith",
+      "name": "Lilith",
+      "alternativeNames": [
+        "Lilit"
+      ],
+      "summary": "A female demon of Jewish folklore.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "demon",
+          "group": "adversarial",
+          "label": "Night demon in Jewish folklore",
+          "explanation": "Isaiah 34:14 mentions a lilith among the creatures that inhabit a desolate land. The Babylonian Talmud warns against sleeping alone in a house lest Lilith seize the sleeper. The story of Lilith as Adam's first wife first appears in the medieval Alphabet of Ben Sira.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Isaiah 34:14"
+            },
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Shabbat 151b"
+            },
+            {
+              "sourceID": "src-alphabet-ben-sira"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "lilith-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lilith_%28John_Collier_painting%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "John Collier's 1887 painting of Lilith with a serpent.",
+          "creator": "John Collier",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Lilith_(John_Collier_painting).jpg",
+          "attributionText": "John Collier, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1887"
+        }
+      ]
+    },
+    {
+      "id": "azazel",
+      "name": "Azazel",
+      "alternativeNames": [
+        "Azael",
+        "Asael"
+      ],
+      "summary": "A name associated with the scapegoat ritual of Leviticus, and with a fallen angel in 1 Enoch.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Recipient of the scapegoat (Leviticus 16)",
+          "explanation": "On the Day of Atonement, one goat is chosen by lot for the Lord and another for Azazel, and the second goat is sent into the wilderness. Interpreters have understood Azazel as a place, a description of the goat, or a being.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Leviticus 16:8–10"
+            }
+          ]
+        },
+        {
+          "traditionID": "judaism",
+          "category": "fallenAngel",
+          "group": "adversarial",
+          "label": "Fallen angel in 1 Enoch",
+          "explanation": "In 1 Enoch, Azazel teaches humans to make weapons and ornaments, and is bound and cast into darkness as punishment.",
+          "citations": [
+            {
+              "sourceID": "src-1-enoch",
+              "locator": "8:1"
+            },
+            {
+              "sourceID": "src-1-enoch",
+              "locator": "10:4"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "azazel-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Azazel_%28DI%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Louis Le Breton's illustration of Azazel from the Dictionnaire Infernal.",
+          "creator": "Louis Le Breton",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Azazel_(DI).png",
+          "attributionText": "Louis Le Breton, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1863"
+        }
+      ]
+    },
+    {
+      "id": "abaddon",
+      "name": "Abaddon",
+      "alternativeNames": [
+        "Apollyon"
+      ],
+      "summary": "A Hebrew word for destruction, used in Revelation as the name of the angel of the abyss.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Place of destruction",
+          "explanation": "In the Hebrew Bible, Abaddon appears in poetic texts alongside Sheol as a realm of destruction or of the dead.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Job 26:6"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Proverbs 15:11"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "angel",
+          "group": "other",
+          "label": "Angel of the bottomless pit",
+          "explanation": "In Revelation, the locusts from the bottomless pit have as their king the angel of the abyss, whose name is Abaddon in Hebrew and Apollyon in Greek. Interpreters differ on whether this angel serves God or is a demonic figure.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Revelation 9:11"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "abaddon-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Saint-Sever_Beatus_f._145v_-_Locusts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Eleventh-century manuscript painting of the locusts of the abyss from Revelation 9.",
+          "creator": "Illustrated by Stephanus Garsia (and other unnamed)",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Saint-Sever_Beatus_f._145v_-_Locusts.jpg",
+          "attributionText": "Illustrated by Stephanus Garsia (and other unnamed), Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "11th century"
+        }
+      ]
+    },
+    {
+      "id": "legion",
+      "name": "Legion",
+      "alternativeNames": [],
+      "summary": "The name given by the unclean spirits that Jesus casts out of a man in the Gospels.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "christianity",
+          "category": "demon",
+          "group": "adversarial",
+          "label": "Unclean spirits",
+          "explanation": "In the Gospels of Mark and Luke, the spirit possessing a man in the country of the Gerasenes gives its name as Legion, because many demons had entered him. Jesus sends them into a herd of pigs.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Mark 5:1–13"
+            },
+            {
+              "sourceID": "src-new-testament",
+              "locator": "Luke 8:26–33"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "legion-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Miracle_of_the_Gadarene_Swine_-_Google_Art_Project.jpg/1280px-The_Miracle_of_the_Gadarene_Swine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Medieval manuscript painting of Jesus driving the demons into the herd of pigs.",
+          "creator": "Unknown – illuminator",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:The_Miracle_of_the_Gadarene_Swine_-_Google_Art_Project.jpg",
+          "attributionText": "Unknown – illuminator, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "about 1000"
+        }
+      ]
+    },
+    {
+      "id": "belial",
+      "name": "Belial",
+      "alternativeNames": [
+        "Beliar",
+        "Beliyya'al"
+      ],
+      "summary": "A Hebrew term meaning worthlessness that later became a name for a figure of evil.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Worthlessness (beliyya'al)",
+          "explanation": "In the Hebrew Bible, the word appears in expressions describing wicked or worthless people, such as the sons of Eli. In some Second Temple writings, including the War Scroll among the Dead Sea Scrolls, Belial is the leader of the forces of darkness.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "1 Samuel 2:12"
+            },
+            {
+              "sourceID": "src-war-scroll",
+              "locator": "Column 1"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "demon",
+          "group": "adversarial",
+          "label": "Figure opposed to Christ (Beliar)",
+          "explanation": "Paul asks what agreement Christ has with Beliar, using the name for a figure opposed to Christ.",
+          "citations": [
+            {
+              "sourceID": "src-new-testament",
+              "locator": "2 Corinthians 6:15"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "belial-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Belial-et-Moise1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Woodcut of Belial before Moses from Jacobus de Teramo's Book of Belial.",
+          "creator": "Jacobus de Teramo, Das Buch Belial",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Belial-et-Moise1.jpg",
+          "attributionText": "Jacobus de Teramo, Das Buch Belial, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1473"
+        }
+      ]
+    },
+    {
+      "id": "shayatin",
+      "name": "Shayatin",
+      "alternativeNames": [
+        "Shaytan",
+        "Shaitan",
+        "Shayateen",
+        "Devils"
+      ],
+      "summary": "In the Qur'an, rebellious beings who lead people astray, found among both jinn and humans.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "other",
+          "group": "adversarial",
+          "label": "Devils (shayatin)",
+          "explanation": "The Qur'an describes shayatin from among both humans and jinn who inspire one another with deceptive speech, and describes shayatin teaching people magic in the time of Solomon.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "6:112"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "2:102"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "shayatin-iblis",
+          "relatedEntityID": "iblis",
+          "relationshipType": "associatedWith",
+          "explanation": "Islamic tradition calls Iblis al-Shaytan and regards him as the foremost of the shayatin."
+        }
+      ]
+    },
+    {
+      "id": "jinn",
+      "name": "Jinn",
+      "alternativeNames": [
+        "Djinn",
+        "Jinni",
+        "Genie"
+      ],
+      "summary": "In Islamic belief, beings created from smokeless fire who, like humans, may choose belief or disbelief.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "jinn",
+          "group": "other",
+          "label": "Jinn",
+          "explanation": "The Qur'an states that the jinn were created from a smokeless flame of fire, and that jinn and humans were created to worship God. It describes some jinn as righteous and others not, and some as Muslims.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "55:15"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "51:56"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "72:11"
+            },
+            {
+              "sourceID": "src-quran",
+              "locator": "72:14"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "jinn-iblis",
+          "relatedEntityID": "iblis",
+          "relationshipType": "includes",
+          "explanation": "The Qur'an states that Iblis was of the jinn.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "18:50"
+            }
+          ]
+        },
+        {
+          "id": "jinn-ifrit",
+          "relatedEntityID": "ifrit",
+          "relationshipType": "includes",
+          "explanation": "The Qur'an mentions an ifrit from among the jinn.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "27:39"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "jinn-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/The_Singer_Ibrahim_and_the_jinn_%28cropped%29.jpg/1280px-The_Singer_Ibrahim_and_the_jinn_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Manuscript painting of the singer Ibrahim al-Mawsili meeting a jinn.",
+          "creator": "Unknown artist",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:The_Singer_Ibrahim_and_the_jinn_(cropped).jpg",
+          "attributionText": "Unknown artist, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "Circa 1295 – 1310"
+        }
+      ]
+    },
+    {
+      "id": "ifrit",
+      "name": "Ifrit",
+      "alternativeNames": [
+        "Efreet",
+        "Afrit",
+        "'Ifrit"
+      ],
+      "summary": "A powerful jinn mentioned in the Qur'an's account of Solomon.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "islam",
+          "category": "jinn",
+          "group": "other",
+          "label": "A powerful jinn",
+          "explanation": "In the Qur'an's account of Solomon and the Queen of Sheba, an ifrit from among the jinn offers to bring the queen's throne before Solomon rises from his place.",
+          "citations": [
+            {
+              "sourceID": "src-quran",
+              "locator": "27:39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nephilim",
+      "name": "Nephilim",
+      "alternativeNames": [
+        "Nefilim"
+      ],
+      "summary": "Figures mentioned briefly in Genesis and Numbers whose identity has been interpreted in many ways.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Nephilim",
+          "explanation": "Genesis mentions the Nephilim in connection with the sons of God and the daughters of men, and the spies sent into Canaan report seeing Nephilim there. Interpreters have understood them in different ways, including as giants.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Genesis 6:4"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Numbers 13:33"
+            }
+          ]
+        },
+        {
+          "traditionID": "christianity",
+          "category": "other",
+          "group": "other",
+          "label": "Nephilim",
+          "explanation": "Christian interpreters have read Genesis 6:4 in different ways. Some identify the sons of God as angels and others as human descendants of Seth.",
+          "citations": [
+            {
+              "sourceID": "src-old-testament",
+              "locator": "Genesis 6:4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "alternativeNames": [
+        "Livyatan"
+      ],
+      "summary": "A great sea creature in the Hebrew Bible, described in poetic and prophetic texts.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "judaism",
+          "category": "other",
+          "group": "other",
+          "label": "Sea creature",
+          "explanation": "Leviathan appears in Isaiah as a serpent that God will slay, in the Psalms as a creature whose heads God crushed, and in Job as a creature beyond human power. The Babylonian Talmud also mentions God sporting with Leviathan.",
+          "citations": [
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Isaiah 27:1"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Psalms 74:14"
+            },
+            {
+              "sourceID": "src-tanakh",
+              "locator": "Job 40:25–41:26"
+            },
+            {
+              "sourceID": "src-babylonian-talmud",
+              "locator": "Avodah Zarah 3b"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "leviathan-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Destruction_of_Leviathan.png/1280px-Destruction_of_Leviathan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Gustave Doré's engraving of God destroying Leviathan.",
+          "creator": "Gustave Doré",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Destruction_of_Leviathan.png",
+          "attributionText": "Gustave Doré, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1865"
+        }
+      ]
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "alternativeNames": [
+        "Viṣṇu",
+        "Narayana",
+        "Hari"
+      ],
+      "summary": "A principal deity of Hinduism, worshipped as the Supreme Being in Vaishnava traditions.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deity; the Supreme Being in Vaishnava traditions",
+          "explanation": "Vishnu appears in the Rigveda, including a hymn praising his three strides. In Vaishnava traditions Vishnu, together with avatars such as Rama and Krishna, is worshipped as the Supreme Being.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.154"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "vishnu-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Raja Ravi Varma's print of Vishnu reclining on the serpent Shesha.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Seshanarayana_(Oleographic_print).jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "alternativeNames": [
+        "Śiva",
+        "Mahadeva"
+      ],
+      "summary": "A principal deity of Hinduism, worshipped as the Supreme Being in Shaiva traditions.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deity; the Supreme Being in Shaiva traditions",
+          "explanation": "The Shvetashvatara Upanishad praises Rudra, identified with Shiva, as the one lord who has no second. In Shaiva traditions Shiva is worshipped as the Supreme Being.",
+          "citations": [
+            {
+              "sourceID": "src-shvetashvatara-upanishad",
+              "locator": "3.2"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "shiva-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/MET_DP221497.jpg/1280px-MET_DP221497.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Bronze sculpture of Shiva as Nataraja, Lord of Dance, from the Metropolitan Museum of Art.",
+          "creator": "Unknown artist",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:MET_DP221497.jpg",
+          "attributionText": "Unknown artist, CC0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "dateText": "late 12th–early 13th century"
+        }
+      ]
+    },
+    {
+      "id": "brahma",
+      "name": "Brahma",
+      "alternativeNames": [
+        "Brahmā",
+        "Pitamaha"
+      ],
+      "summary": "The creator god of Hindu tradition, counted with Vishnu and Shiva in the Trimurti.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deity; the creator",
+          "explanation": "In Puranic accounts, Brahma creates the worlds. The Bhagavata Purana describes him being born on a lotus that grows from the navel of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-vishnu-purana",
+              "locator": "Book 1"
+            },
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "3.8"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "brahma-vishnu",
+          "relatedEntityID": "vishnu",
+          "relationshipType": "bornFrom",
+          "explanation": "The Bhagavata Purana describes Brahma's birth on a lotus from Vishnu's navel.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "3.8"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "brahma-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Mural_depicting_Brahma%2C_from_Ramtatwali_Dham%2C_Hoshiarpur_district%2C_Punjab%2C_circa_19th_century.jpg/1280px-Mural_depicting_Brahma%2C_from_Ramtatwali_Dham%2C_Hoshiarpur_district%2C_Punjab%2C_circa_19th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Nineteenth-century mural of Brahma from Punjab.",
+          "creator": "Unknown Kangra muralists; photograph by Namita Jaspal",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Brahma,_from_Ramtatwali_Dham,_Hoshiarpur_district,_Punjab,_circa_19th_century.jpg",
+          "attributionText": "Unknown Kangra muralists; photograph by Namita Jaspal, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 19th century"
+        }
+      ]
+    },
+    {
+      "id": "durga",
+      "name": "Durga",
+      "alternativeNames": [
+        "Durgā",
+        "Chandika",
+        "Ambika"
+      ],
+      "summary": "A form of the Goddess (Devi) celebrated for her victory over the asura Mahishasura.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "goddess",
+          "group": "divineAndCelestial",
+          "label": "Goddess; a form of Devi",
+          "explanation": "The Devi Mahatmya narrates how the Goddess, called by names including Chandika, Ambika, and Durga, defeats the asura Mahishasura. In Shakta traditions the Goddess is worshipped as the Supreme Being.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapters 2–3"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "durga-mahishasura",
+          "relatedEntityID": "mahishasura",
+          "relationshipType": "defeats",
+          "explanation": "In the Devi Mahatmya, the Goddess defeats Mahishasura.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapters 2–3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "durga-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Durga_by_Raja_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Raja Ravi Varma's painting of the goddess Durga.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Durga_by_Raja_Ravi_Varma.jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "lakshmi",
+      "name": "Lakshmi",
+      "alternativeNames": [
+        "Lakṣmī",
+        "Shri",
+        "Sri"
+      ],
+      "summary": "The goddess of fortune and prosperity, consort of Vishnu.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "goddess",
+          "group": "divineAndCelestial",
+          "label": "Goddess of fortune; consort of Vishnu",
+          "explanation": "The Vishnu Purana tells how Lakshmi emerged from the churning of the ocean of milk and chose Vishnu as her consort.",
+          "citations": [
+            {
+              "sourceID": "src-vishnu-purana",
+              "locator": "1.9"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "lakshmi-vishnu",
+          "relatedEntityID": "vishnu",
+          "relationshipType": "consortOf",
+          "explanation": "Lakshmi is the consort of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-vishnu-purana",
+              "locator": "1.9"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "lakshmi-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Raja_Ravi_Varma%2C_Goddess_Lakshmi%2C_1896.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Raja Ravi Varma's 1896 painting of the goddess Lakshmi standing on a lotus.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1896"
+        }
+      ]
+    },
+    {
+      "id": "saraswati",
+      "name": "Saraswati",
+      "alternativeNames": [
+        "Sarasvatī",
+        "Sharada",
+        "Vani"
+      ],
+      "summary": "The goddess of knowledge, music, and learning, first praised in the Rigveda as a river goddess.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "goddess",
+          "group": "divineAndCelestial",
+          "label": "Goddess of knowledge and learning",
+          "explanation": "The Rigveda praises Sarasvati as the best of mothers, the best of rivers, and the best of goddesses. In later tradition she is worshipped as the goddess of learning, speech, and the arts.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "2.41.16"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "saraswati-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Saraswati_by_Raja_Ravi_Varma.jpg/1280px-Saraswati_by_Raja_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Raja Ravi Varma's painting of the goddess Saraswati with a veena.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Saraswati_by_Raja_Ravi_Varma.jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1894"
+        }
+      ]
+    },
+    {
+      "id": "parvati",
+      "name": "Parvati",
+      "alternativeNames": [
+        "Pārvatī",
+        "Uma",
+        "Gauri"
+      ],
+      "summary": "The goddess who is the consort of Shiva and mother of Ganesha and Kartikeya.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "goddess",
+          "group": "divineAndCelestial",
+          "label": "Goddess; consort of Shiva",
+          "explanation": "The Shiva Purana narrates Parvati's birth as the daughter of Himavat, her austerities to win Shiva as her husband, and their marriage.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Parvati Khanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "parvati-shiva",
+          "relatedEntityID": "shiva",
+          "relationshipType": "consortOf",
+          "explanation": "Parvati is the consort of Shiva.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Parvati Khanda"
+            }
+          ]
+        },
+        {
+          "id": "parvati-ganesha",
+          "relatedEntityID": "ganesha",
+          "relationshipType": "motherOf",
+          "explanation": "In the Shiva Purana, Parvati creates Ganesha.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "parvati-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/An_Oleograph_of_Shiva%2C_Parvati_and_Nandi_by_Raja_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Raja Ravi Varma's print of Shiva and Parvati with Nandi.",
+          "creator": "Raja Ravi Varma (1848-1906)",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:An_Oleograph_of_Shiva,_Parvati_and_Nandi_by_Raja_Ravi_Varma.jpg",
+          "attributionText": "Raja Ravi Varma (1848-1906), Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "kali",
+      "name": "Kali",
+      "alternativeNames": [
+        "Kālī",
+        "Kalika"
+      ],
+      "summary": "A fierce form of the Goddess associated with time, death, and the destruction of evil.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "goddess",
+          "group": "divineAndCelestial",
+          "label": "Goddess; a fierce form of Devi",
+          "explanation": "In the Devi Mahatmya, Kali emerges from the forehead of the Goddess Ambika to slay the asuras Chanda and Munda.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapter 7"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "kali-durga",
+          "relatedEntityID": "durga",
+          "relationshipType": "formOf",
+          "explanation": "In the Devi Mahatmya, Kali emerges from the Goddess Ambika.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapter 7"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "kali-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/India%2C_Calcutta%2C_Kalighat_painting%2C_19th_century_-_Kali_-_2003.116_-_Cleveland_Museum_of_Art.jpg/1280px-India%2C_Calcutta%2C_Kalighat_painting%2C_19th_century_-_Kali_-_2003.116_-_Cleveland_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Nineteenth-century Kalighat painting of the goddess Kali.",
+          "creator": "anonymous",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:India,_Calcutta,_Kalighat_painting,_19th_century_-_Kali_-_2003.116_-_Cleveland_Museum_of_Art.jpg",
+          "attributionText": "anonymous, CC0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "dateText": "1800"
+        }
+      ]
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "alternativeNames": [
+        "Gaṇeśa",
+        "Ganapati",
+        "Vinayaka",
+        "Ganesh"
+      ],
+      "summary": "The elephant-headed god revered as the remover of obstacles and patron of beginnings.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deity; remover of obstacles",
+          "explanation": "The Shiva Purana tells how Parvati created Ganesha, how Shiva beheaded him when he barred Shiva's way, and how he was restored to life with an elephant's head.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "ganesha-shiva",
+          "relatedEntityID": "shiva",
+          "relationshipType": "sonOf",
+          "explanation": "Ganesha is the son of Shiva and Parvati.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "ganesha-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Basohli miniature painting of Ganesha.",
+          "creator": "anonymous",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg",
+          "attributionText": "anonymous, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1746"
+        }
+      ]
+    },
+    {
+      "id": "kartikeya",
+      "name": "Kartikeya",
+      "alternativeNames": [
+        "Skanda",
+        "Murugan",
+        "Subrahmanya",
+        "Kumara"
+      ],
+      "summary": "The god of war and son of Shiva, widely worshipped in South India as Murugan.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deity; commander of the gods' army",
+          "explanation": "The Shiva Purana narrates the birth of Kartikeya to lead the army of the gods against the asura Taraka, whom he defeats.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "kartikeya-shiva",
+          "relatedEntityID": "shiva",
+          "relationshipType": "sonOf",
+          "explanation": "Kartikeya is a son of Shiva.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        },
+        {
+          "id": "kartikeya-tarakasura",
+          "relatedEntityID": "tarakasura",
+          "relationshipType": "defeats",
+          "explanation": "In the Shiva Purana, Kartikeya kills the asura Taraka.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "kartikeya-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Murugan_by_Raja_Ravi_Varma.jpg/1280px-Murugan_by_Raja_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Raja Ravi Varma's painting of Kartikeya (Murugan) with his peacock.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Murugan_by_Raja_Ravi_Varma.jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "krishna",
+      "name": "Krishna",
+      "alternativeNames": [
+        "Kṛṣṇa",
+        "Govinda",
+        "Vasudeva"
+      ],
+      "summary": "A major deity of Hinduism, worshipped as an avatar of Vishnu or as the Supreme Being.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Avatar of Vishnu; the Supreme Being in some traditions",
+          "explanation": "In the Bhagavad Gita, Krishna teaches Arjuna and declares that he manifests himself whenever righteousness declines. The Bhagavata Purana narrates his life in detail and calls him the Lord himself, and some Vaishnava traditions worship Krishna as the source of all avatars.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavad-gita",
+              "locator": "4.7–8"
+            },
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "1.3"
+            },
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "Book 10"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "krishna-vishnu",
+          "relatedEntityID": "vishnu",
+          "relationshipType": "avatarOf",
+          "explanation": "The Bhagavata Purana lists Krishna among the avatars.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "1.3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "krishna-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Krishna_and_Arjun_on_the_chariot%2C_Mahabharata%2C_18th-19th_century%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Painting of Krishna and Arjuna on the chariot, the setting of the Bhagavad Gita.",
+          "creator": "Anonymous Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Krishna_and_Arjun_on_the_chariot,_Mahabharata,_18th-19th_century,_India.jpg",
+          "attributionText": "Anonymous Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "18th–19th century"
+        }
+      ]
+    },
+    {
+      "id": "rama",
+      "name": "Rama",
+      "alternativeNames": [
+        "Rāma",
+        "Ramachandra"
+      ],
+      "summary": "The hero of the Ramayana, worshipped as an avatar of Vishnu.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Avatar of Vishnu; hero of the Ramayana",
+          "explanation": "Valmiki's Ramayana tells of Rama's exile, the abduction of his wife Sita by Ravana, and his victory over Ravana in Lanka. Vaishnava traditions worship Rama as an avatar of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Ayodhya Kanda; Yuddha Kanda"
+            },
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "1.3"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rama-vishnu",
+          "relatedEntityID": "vishnu",
+          "relationshipType": "avatarOf",
+          "explanation": "The Bhagavata Purana lists Rama among the avatars of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "1.3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "rama-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg/1280px-Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Raja Ravi Varma's lithograph of Rama with Sita, Lakshmana, and Hanuman.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Ramapanchayan,_Raja_Ravi_Varma_(Lithograph).jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "before 1906"
+        }
+      ]
+    },
+    {
+      "id": "narasimha",
+      "name": "Narasimha",
+      "alternativeNames": [
+        "Narasiṃha",
+        "Nrisimha"
+      ],
+      "summary": "The man-lion avatar of Vishnu who protects his devotee Prahlada.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Avatar of Vishnu",
+          "explanation": "The Bhagavata Purana describes Vishnu appearing from a pillar as Narasimha, part man and part lion, to kill Hiranyakashipu and protect Prahlada.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "7.8"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "narasimha-vishnu",
+          "relatedEntityID": "vishnu",
+          "relationshipType": "avatarOf",
+          "explanation": "Narasimha is an avatar of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "7.8"
+            }
+          ]
+        },
+        {
+          "id": "narasimha-hiranyakashipu",
+          "relatedEntityID": "hiranyakashipu",
+          "relationshipType": "defeats",
+          "explanation": "Narasimha kills Hiranyakashipu.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "7.8"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "narasimha-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Narasimha_oil_colour.jpg/1280px-Narasimha_oil_colour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Eighteenth-century painting of Narasimha killing Hiranyakashipu.",
+          "creator": "Anonymous Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Narasimha_oil_colour.jpg",
+          "attributionText": "Anonymous Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "18th century"
+        }
+      ]
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman",
+      "alternativeNames": [
+        "Hanumān",
+        "Anjaneya",
+        "Maruti"
+      ],
+      "summary": "The vanara devotee of Rama, worshipped for his strength and devotion.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Vanara hero; worshipped as a deity",
+          "explanation": "In Valmiki's Ramayana, Hanuman leaps across the ocean to Lanka, finds Sita, and serves Rama devotedly in the war against Ravana.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Sundara Kanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "hanuman-rama",
+          "relatedEntityID": "rama",
+          "relationshipType": "devoteeOf",
+          "explanation": "Hanuman serves Rama in the Ramayana.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Sundara Kanda"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "hanuman-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hanuman_finds_sita_in_Ashoka_vana_A_painting_from_Akbar_Ramayana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Mughal painting of Hanuman finding Sita in the Ashoka grove.",
+          "creator": "Mughal painter",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Hanuman_finds_sita_in_Ashoka_vana_A_painting_from_Akbar_Ramayana.jpg",
+          "attributionText": "Mughal painter, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "alternativeNames": [
+        "Garuḍa"
+      ],
+      "summary": "The divine eagle who serves as the mount (vahana) of Vishnu.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "other",
+          "group": "divineAndCelestial",
+          "label": "Divine bird; mount of Vishnu",
+          "explanation": "The Mahabharata tells how Garuda seized the nectar of immortality to free his mother from servitude, and how Vishnu granted him a boon and took him as his mount.",
+          "citations": [
+            {
+              "sourceID": "src-mahabharata",
+              "locator": "Adi Parva"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "garuda-vishnu",
+          "relatedEntityID": "vishnu",
+          "relationshipType": "mountOf",
+          "explanation": "Garuda is the mount of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-mahabharata",
+              "locator": "Adi Parva"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "garuda-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Vishnu_on_Garuda_MET_DP-18171-001.jpg/1280px-Vishnu_on_Garuda_MET_DP-18171-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Pahari painting of Vishnu riding Garuda.",
+          "creator": "Attributed to Sajnu of Mandi",
+          "license": "CC0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Vishnu_on_Garuda_MET_DP-18171-001.jpg",
+          "attributionText": "Attributed to Sajnu of Mandi, CC0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "dateText": "ca. 1810–20"
+        }
+      ]
+    },
+    {
+      "id": "indra",
+      "name": "Indra",
+      "alternativeNames": [
+        "Śakra",
+        "Shakra",
+        "Devendra"
+      ],
+      "summary": "The king of the devas and wielder of the thunderbolt, praised extensively in the Rigveda.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deva; king of the gods",
+          "explanation": "The Rigveda praises Indra in many hymns, including one celebrating how he slew the serpent Vritra with his thunderbolt (vajra) and released the waters.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.32"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "indra-vritra",
+          "relatedEntityID": "vritra",
+          "relationshipType": "defeats",
+          "explanation": "In the Rigveda, Indra slays Vritra.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.32"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "indra-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Indra_deva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Nineteenth-century painting of Indra.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Indra_deva.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 1820"
+        }
+      ]
+    },
+    {
+      "id": "agni",
+      "name": "Agni",
+      "alternativeNames": [
+        "Agnī"
+      ],
+      "summary": "The Vedic god of fire, who carries offerings between humans and the gods.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deva of fire",
+          "explanation": "The Rigveda opens with a hymn to Agni, praised as the household priest and the divine minister of the sacrifice.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.1"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "agni-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Agni_god_of_fire.jpg/1280px-Agni_god_of_fire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Nineteenth-century painting of Agni, god of fire.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Agni_god_of_fire.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 1830"
+        }
+      ]
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "alternativeNames": [
+        "Sūrya",
+        "Aditya"
+      ],
+      "summary": "The Vedic and later Hindu god of the sun.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deva of the sun",
+          "explanation": "The Rigveda contains hymns to Surya, including one describing the sun rising and being drawn across the sky in a chariot by mares.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.50"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "surya-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sculpture_of_Surya_on_his_Chariot%2C_Nepal%2C_1600-1700_CE%2C_Ashmolean_Museum%2C_Oxford_Description_Surya%2C_the_Sun_god%2C_bronze%2C_Nepal%2C_1600-1700._Surya_rides_in_his_horse_drawn_chariot_with_attendants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Nepalese bronze of Surya riding his horse-drawn chariot.",
+          "creator": "SpeakingArch",
+          "license": "CC BY-SA 4.0",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Sculpture_of_Surya_on_his_Chariot,_Nepal,_1600-1700_CE,_Ashmolean_Museum,_Oxford_Description_Surya,_the_Sun_god,_bronze,_Nepal,_1600-1700._Surya_rides_in_his_horse_drawn_chariot_with_attendants.jpg",
+          "attributionText": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "dateText": "1600–1700 (sculpture)"
+        }
+      ]
+    },
+    {
+      "id": "varuna",
+      "name": "Varuna",
+      "alternativeNames": [
+        "Varuṇa"
+      ],
+      "summary": "A Vedic god associated with cosmic order and, in later texts, with the waters.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deva of cosmic order",
+          "explanation": "The Rigveda praises Varuna as a guardian of cosmic order, and in one hymn the poet Vasishtha seeks Varuna's forgiveness for wrongdoing. In later texts Varuna is chiefly associated with the waters.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "7.86"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "varuna-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Varuna_makara.jpg/1280px-Varuna_makara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Nineteenth-century painting of Varuna riding a makara.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Varuna_makara.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 1820"
+        }
+      ]
+    },
+    {
+      "id": "yama",
+      "name": "Yama",
+      "alternativeNames": [
+        "Yamarāja",
+        "Dharmaraja"
+      ],
+      "summary": "The god of death and ruler of the departed.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "god",
+          "group": "divineAndCelestial",
+          "label": "Deva of death",
+          "explanation": "The Rigveda describes Yama as the one who first found the path to the realm of the departed. In the Katha Upanishad, the boy Nachiketa questions Yama about what happens after death.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "10.14"
+            },
+            {
+              "sourceID": "src-katha-upanishad",
+              "locator": "Chapter 1"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "yama-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Yama_on_buffalo.jpg/1280px-Yama_on_buffalo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Nineteenth-century painting of Yama riding a buffalo.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Yama_on_buffalo.jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 1820"
+        }
+      ]
+    },
+    {
+      "id": "mahishasura",
+      "name": "Mahishasura",
+      "alternativeNames": [
+        "Mahiṣāsura",
+        "Mahisha"
+      ],
+      "summary": "An asura who, in the Devi Mahatmya, drives the devas from heaven and is defeated by the Goddess.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "asura",
+          "group": "adversarial",
+          "label": "Asura",
+          "explanation": "In the Devi Mahatmya, Mahishasura is an asura who defeats the devas and is in turn defeated by the Goddess. In Vedic literature the term asura has a broader and more varied meaning than in later Puranic narratives.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapters 2–3"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "mahishasura-durga",
+          "relatedEntityID": "durga",
+          "relationshipType": "defeatedBy",
+          "explanation": "In the Devi Mahatmya, Mahishasura is defeated by the Goddess.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapters 2–3"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "mahishasura-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Durga_Mahishasura-mardini%2C_the_slayer_of_the_buffalo_demon%2C_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Raja Ravi Varma's painting of Durga slaying Mahishasura.",
+          "creator": "Raja Ravi Varma",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Durga_Mahishasura-mardini,_the_slayer_of_the_buffalo_demon,_Germany.jpg",
+          "attributionText": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1880"
+        }
+      ]
+    },
+    {
+      "id": "shumbha-and-nishumbha",
+      "name": "Shumbha and Nishumbha",
+      "alternativeNames": [
+        "Śumbha",
+        "Niśumbha"
+      ],
+      "summary": "Asura brothers who conquer the heavens and are slain by the Goddess in the Devi Mahatmya.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "asura",
+          "group": "adversarial",
+          "label": "Asura brothers",
+          "explanation": "In the Devi Mahatmya, the asuras Shumbha and Nishumbha seize the domains of the gods. Shumbha seeks the Goddess in marriage, and she defeats both brothers in battle.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapters 5–10"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "shumbha-and-nishumbha-durga",
+          "relatedEntityID": "durga",
+          "relationshipType": "defeatedBy",
+          "explanation": "In the Devi Mahatmya, the Goddess defeats Shumbha and Nishumbha.",
+          "citations": [
+            {
+              "sourceID": "src-devi-mahatmya",
+              "locator": "Chapters 5–10"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "shumbha-and-nishumbha-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kali_Attacking_Nisumbha%2C_c._1740.jpg/1280px-Kali_Attacking_Nisumbha%2C_c._1740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Eighteenth-century painting of Kali attacking Nishumbha.",
+          "creator": "Unknown artist",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Kali_Attacking_Nisumbha,_c._1740.jpg",
+          "attributionText": "Unknown artist, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "circa 1740"
+        }
+      ]
+    },
+    {
+      "id": "tarakasura",
+      "name": "Tarakasura",
+      "alternativeNames": [
+        "Taraka",
+        "Tāraka"
+      ],
+      "summary": "An asura whose boon could be overcome only by a son of Shiva.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "asura",
+          "group": "adversarial",
+          "label": "Asura",
+          "explanation": "The Shiva Purana tells how Taraka obtained a boon that only a son of Shiva could defeat him, oppressed the gods, and was killed by Kartikeya.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "tarakasura-kartikeya",
+          "relatedEntityID": "kartikeya",
+          "relationshipType": "defeatedBy",
+          "explanation": "Taraka is killed by Kartikeya.",
+          "citations": [
+            {
+              "sourceID": "src-shiva-purana",
+              "locator": "Rudra Samhita, Kumara Khanda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hiranyakashipu",
+      "name": "Hiranyakashipu",
+      "alternativeNames": [
+        "Hiraṇyakaśipu"
+      ],
+      "summary": "A daitya king who persecutes his son Prahlada for his devotion to Vishnu.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "asura",
+          "group": "adversarial",
+          "label": "Daitya (asura) king",
+          "explanation": "The Bhagavata Purana tells how Hiranyakashipu, having gained a boon of near-invulnerability, persecuted his son Prahlada for worshipping Vishnu, and was killed by Vishnu in the form of Narasimha.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "7.4–8"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "hiranyakashipu-narasimha",
+          "relatedEntityID": "narasimha",
+          "relationshipType": "defeatedBy",
+          "explanation": "Hiranyakashipu is killed by Narasimha.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "7.8"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "hiranyakashipu-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Vi%E1%B9%A3%E1%B9%87u_as_Narasimha_tearing_Hiranyakasipu_to_pieces..jpg/1280px-Vi%E1%B9%A3%E1%B9%87u_as_Narasimha_tearing_Hiranyakasipu_to_pieces..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Mughal-style painting of Narasimha killing Hiranyakashipu.",
+          "creator": "Mughal style",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Vi%E1%B9%A3%E1%B9%87u_as_Narasimha_tearing_Hiranyakasipu_to_pieces..jpg",
+          "attributionText": "Mughal style, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "17thC(late)"
+        }
+      ]
+    },
+    {
+      "id": "mahabali",
+      "name": "Mahabali",
+      "alternativeNames": [
+        "Bali",
+        "Maveli"
+      ],
+      "summary": "A generous asura king humbled by Vishnu's dwarf avatar Vamana, and celebrated during the festival of Onam.",
+      "isFeatured": true,
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "asura",
+          "group": "other",
+          "label": "Asura king, honoured for his devotion",
+          "explanation": "The Bhagavata Purana tells how Bali, an asura king who had conquered the three worlds, granted the dwarf Vamana three steps of land. Vamana covered the worlds in two steps, and Bali offered his own head for the third, for which he was honoured. In Kerala, the festival of Onam celebrates his return.",
+          "citations": [
+            {
+              "sourceID": "src-bhagavata-purana",
+              "locator": "Book 8"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "mahabali-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Anonymous_-_Vamana_being_blessed_by_King_Bali_-_2016.248_-_Metropolitan_Museum_of_Art.jpg/1280px-Anonymous_-_Vamana_being_blessed_by_King_Bali_-_2016.248_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Painting of King Bali blessing the dwarf Vamana.",
+          "creator": "anonymous",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Vamana_being_blessed_by_King_Bali_-_2016.248_-_Metropolitan_Museum_of_Art.jpg",
+          "attributionText": "anonymous, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "between 1780 and 1789"
+        }
+      ]
+    },
+    {
+      "id": "vritra",
+      "name": "Vritra",
+      "alternativeNames": [
+        "Vṛtra",
+        "Ahi"
+      ],
+      "summary": "In the Rigveda, the serpent who withholds the waters and is slain by Indra.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "other",
+          "group": "adversarial",
+          "label": "Serpent adversary of Indra",
+          "explanation": "The Rigveda describes Vritra as a serpent lying around the waters who was slain by Indra with his thunderbolt, releasing the rivers.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.32"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "vritra-indra",
+          "relatedEntityID": "indra",
+          "relationshipType": "defeatedBy",
+          "explanation": "In the Rigveda, Vritra is slain by Indra.",
+          "citations": [
+            {
+              "sourceID": "src-rigveda",
+              "locator": "1.32"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "vritra-image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Indra_kills_Vrttirasura_%28story_from_Rik_Veda%2C_featured_in_Bhagavatha%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "altText": "Illustration of Indra killing Vritra.",
+          "creator": "Unknown author",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Indra_kills_Vrttirasura_(story_from_Rik_Veda,_featured_in_Bhagavatha).jpg",
+          "attributionText": "Unknown author, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1916"
+        }
+      ]
+    },
+    {
+      "id": "ravana",
+      "name": "Ravana",
+      "alternativeNames": [
+        "Rāvaṇa",
+        "Dashanana"
+      ],
+      "summary": "In the Ramayana, the rakshasa king of Lanka who abducts Sita.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-01T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "rakshasa",
+          "group": "adversarial",
+          "label": "Rakshasa king of Lanka",
+          "explanation": "In Valmiki's Ramayana, Ravana rules Lanka as king of the rakshasas. His abduction of Sita leads to war with Rama.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Aranya Kanda; Yuddha Kanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "ravana-rama",
+          "relatedEntityID": "rama",
+          "relationshipType": "opposes",
+          "explanation": "In the Ramayana, Ravana is slain by Rama, whom Vaishnava traditions regard as an avatar of Vishnu.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Yuddha Kanda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kumbhakarna",
+      "name": "Kumbhakarna",
+      "alternativeNames": [
+        "Kumbhakarṇa"
+      ],
+      "summary": "Ravana's giant brother in the Ramayana, known for his long sleep.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "rakshasa",
+          "group": "adversarial",
+          "label": "Rakshasa",
+          "explanation": "In Valmiki's Ramayana, Kumbhakarna, brother of Ravana, sleeps for long periods. Woken to fight, he tells Ravana that he has acted wrongly, but fights for him out of loyalty and is killed by Rama.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Yuddha Kanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "kumbhakarna-ravana",
+          "relatedEntityID": "ravana",
+          "relationshipType": "brotherOf",
+          "explanation": "Kumbhakarna is Ravana's brother.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Yuddha Kanda"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "kumbhakarna-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kumbhakarna%2C_the_giant_brother_of_Ravana.jpg/1280px-Kumbhakarna%2C_the_giant_brother_of_Ravana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Company School painting of Kumbhakarna.",
+          "creator": "Company School",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Kumbhakarna,_the_giant_brother_of_Ravana.jpg",
+          "attributionText": "Company School, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "19th century"
+        }
+      ]
+    },
+    {
+      "id": "vibhishana",
+      "name": "Vibhishana",
+      "alternativeNames": [
+        "Vibhīṣaṇa"
+      ],
+      "summary": "Ravana's righteous brother, who joins Rama.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "rakshasa",
+          "group": "other",
+          "label": "Rakshasa ally of Rama",
+          "explanation": "In Valmiki's Ramayana, Vibhishana urges Ravana to return Sita. When Ravana rejects his counsel, he leaves Lanka to join Rama, and after Ravana's death he is crowned king of Lanka.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Yuddha Kanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "vibhishana-ravana",
+          "relatedEntityID": "ravana",
+          "relationshipType": "brotherOf",
+          "explanation": "Vibhishana is Ravana's brother.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Yuddha Kanda"
+            }
+          ]
+        },
+        {
+          "id": "vibhishana-rama",
+          "relatedEntityID": "rama",
+          "relationshipType": "allyOf",
+          "explanation": "Vibhishana joins Rama against Ravana.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Yuddha Kanda"
+            }
+          ]
+        }
+      ],
+      "imageAssets": [
+        {
+          "id": "vibhishana-image",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Vibhishana_Meets_Rama.jpg/1280px-Vibhishana_Meets_Rama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "altText": "Illustration of Vibhishana meeting Rama.",
+          "creator": "Ramachandra Madhwa Mahishi; illustrated by Balasaheb Pandit Pant Pratinidhi",
+          "license": "Public domain",
+          "sourceURL": "https://commons.wikimedia.org/wiki/File:Vibhishana_Meets_Rama.jpg",
+          "attributionText": "Ramachandra Madhwa Mahishi; illustrated by Balasaheb Pandit Pant Pratinidhi, Public domain, via Wikimedia Commons",
+          "isArtisticReconstruction": false,
+          "reviewedAt": "2026-11-04T00:00:00Z",
+          "dateText": "1916"
+        }
+      ]
+    },
+    {
+      "id": "shurpanakha",
+      "name": "Shurpanakha",
+      "alternativeNames": [
+        "Śūrpaṇakhā",
+        "Surpanakha"
+      ],
+      "summary": "Ravana's sister, whose encounter with Rama and Lakshmana sets the war in motion.",
+      "reviewStatus": "draft",
+      "addedAt": "2026-11-04T00:00:00Z",
+      "classifications": [
+        {
+          "traditionID": "hinduism",
+          "category": "rakshasa",
+          "group": "adversarial",
+          "label": "Rakshasi",
+          "explanation": "In Valmiki's Ramayana, Shurpanakha approaches Rama and Lakshmana in the forest. After Lakshmana mutilates her, she incites her brothers, including Ravana, against them.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Aranya Kanda"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "shurpanakha-ravana",
+          "relatedEntityID": "ravana",
+          "relationshipType": "sisterOf",
+          "explanation": "Shurpanakha is Ravana's sister.",
+          "citations": [
+            {
+              "sourceID": "src-valmiki-ramayana",
+              "locator": "Aranya Kanda"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

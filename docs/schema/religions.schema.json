@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "religions.schema.json",
+  "title": "Divine Atlas religions.json",
+  "type": "object",
+  "required": ["schemaVersion", "records"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "summary", "introduction", "interpretiveNote", "sourceIDs"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/traditionID" },
+          "name": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+          "summary": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+          "introduction": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+          "interpretiveNote": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+          "sourceIDs": { "type": "array", "items": { "$ref": "common.schema.json#/$defs/sourceID" } }
+        }
+      }
+    }
+  }
+}

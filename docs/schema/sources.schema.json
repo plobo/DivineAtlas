@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sources.schema.json",
+  "title": "Divine Atlas sources.json",
+  "type": "object",
+  "required": ["schemaVersion", "records"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "sourceType"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/sourceID" },
+          "title": { "$ref": "common.schema.json#/$defs/nonEmpty" },
+          "author": { "type": "string" },
+          "publisher": { "type": "string" },
+          "publicationDate": { "type": "string" },
+          "url": { "$ref": "common.schema.json#/$defs/httpsURL" },
+          "sourceType": { "enum": ["primaryText", "commentary", "scholarship", "referenceWork", "folklore", "other"] },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}

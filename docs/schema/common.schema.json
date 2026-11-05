@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "common.schema.json",
+  "title": "Divine Atlas shared definitions",
+  "$defs": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "sourceID": { "type": "string", "pattern": "^src-[a-z0-9]+(-[a-z0-9]+)*$" },
+    "httpsURL": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "date": { "type": "string", "format": "date-time" },
+    "nonEmpty": { "type": "string", "minLength": 1, "pattern": "\\S" },
+    "traditionID": { "enum": ["christianity", "judaism", "islam", "hinduism"] },
+    "citation": {
+      "type": "object",
+      "required": ["sourceID"],
+      "additionalProperties": false,
+      "properties": {
+        "sourceID": { "$ref": "#/$defs/sourceID" },
+        "locator": { "$ref": "#/$defs/nonEmpty" }
+      }
+    },
+    "citations": { "type": "array", "items": { "$ref": "#/$defs/citation" } }
+  }
+}
