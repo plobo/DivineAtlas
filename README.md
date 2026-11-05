@@ -15,7 +15,6 @@ Built with Swift 6 and SwiftUI (iOS 17+), with no third-party dependencies.
 </p>
 <p align="center">
   <img src="docs/screenshots/04-demons-filtered.png" width="200" alt="Demons tab filtered to Hinduism, showing asuras and rakshasas">
-  <img src="docs/screenshots/05-religion-islam.png" width="200" alt="Islam landing page with interpretive note and entries by category">
   <img src="docs/screenshots/06-discover.png" width="200" alt="Discover tab with recently viewed and featured figures">
 </p>
 

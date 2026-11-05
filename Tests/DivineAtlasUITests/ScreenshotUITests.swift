@@ -29,13 +29,6 @@ final class ScreenshotUITests: XCTestCase {
         waitForImages()
         capture(app, "04-demons-filtered")
 
-        app.tabBars.buttons["Religions"].tap()
-        let card = app.element("religionCard.islam")
-        XCTAssertTrue(card.waitForExistence(timeout: 5))
-        card.tap()
-        waitForImages()
-        capture(app, "05-religion-islam")
-
         app.tabBars.buttons["Discover"].tap()
         waitForImages()
         capture(app, "06-discover")
