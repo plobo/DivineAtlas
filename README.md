@@ -8,6 +8,15 @@ artwork, and related YouTube videos.
 
 Built with Swift 6 and SwiftUI (iOS 17+), with no third-party dependencies.
 
+VIDEO:
+
+
+https://github.com/user-attachments/assets/f0828508-3847-4b28-bd4a-0766eeace773
+
+
+
+
+
 <p align="center">
   <img src="docs/screenshots/01-gods-and-angels.png" width="200" alt="Gods & Angels list with artwork, tradition and category filters">
   <img src="docs/screenshots/02-entity-detail.png" width="200" alt="Vishnu detail page with Raja Ravi Varma artwork and credit line">
