@@ -10,8 +10,10 @@ Built with Swift 6 and SwiftUI (iOS 17+), with no third-party dependencies.
 
 VIDEO:
 
-
 https://github.com/user-attachments/assets/f0828508-3847-4b28-bd4a-0766eeace773
+
+
+https://github.com/user-attachments/assets/c8c5333e-1df3-4172-90ea-4f5bbf8eeec7
 
 
 
